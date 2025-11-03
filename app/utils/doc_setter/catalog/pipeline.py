@@ -3,6 +3,7 @@ import hashlib
 from .embedder import EmbeddingCreator, PointInserter
 from .collection import create_hybrid_collection, delete_collection
 from loguru import logger
+import aiofiles
 
 COLLECTION_NAME = "gorgia_catalog_hybrid"
 VECTOR_SIZE = 3072
@@ -11,9 +12,9 @@ embedding_creator = EmbeddingCreator('gemini-embedding-001', VECTOR_SIZE)
 point_inserter = PointInserter(collection_name=COLLECTION_NAME, max_retries=2)
 
 
-def _read_json_file(file_path: str) -> list[dict]:
-    with open(file_path, 'r') as file:
-        data = json.load(file)
+async def _read_json_file(file_path: str) -> list[dict]:
+    async with aiofiles.open(file_path, 'r') as file:
+        data = json.loads(await file.read())
     return data
 
 
@@ -62,6 +63,6 @@ async def _process_catalog_data(product_catalog_json_list: list[dict], max_batch
 
 
 async def run_catalog_pipeline(file_path: str = 'products.json', max_batch_size: int = 20):
-    product_catalog_json_list = _read_json_file(file_path)
+    product_catalog_json_list = await _read_json_file(file_path)
     await _process_catalog_data(product_catalog_json_list, max_batch_size)
 

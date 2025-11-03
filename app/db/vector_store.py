@@ -54,11 +54,7 @@ class VectorStore:
         - Named vectors (new hybrid collections with "dense" vector)
         - Unnamed vectors (legacy collections)
         """
-        loop = asyncio.get_event_loop()
-        query_vector = await loop.run_in_executor(
-            None,
-            lambda: self.embeddings.embed_query(query)
-        )
+        query_vector = await self.embeddings.embed_query(query)
 
         collection = collection or self.collection_name
         if collection and self._has_named_vectors(collection):
@@ -156,11 +152,7 @@ class VectorStore:
         try:
             print(f"Hybrid search for: {query}")
 
-            loop = asyncio.get_event_loop()
-            dense_vector = await loop.run_in_executor(
-                None,
-                lambda: self.embeddings.embed_query(query)
-            )
+            dense_vector = await self.embeddings.embed_query(query)
             sparse_vector = await self._create_sparse_embedding(query)
 
             collection = collection or self.collection_name

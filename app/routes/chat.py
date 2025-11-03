@@ -48,7 +48,7 @@ async def chat_endpoint(request: ChatRequest):
         messages.append(user_message)
 
         # Save user message to history before processing
-        history.add_message(user_message)
+        await history.aadd_message(user_message)
 
         graph = await create_graph()
         result = await process_graph_iterations(

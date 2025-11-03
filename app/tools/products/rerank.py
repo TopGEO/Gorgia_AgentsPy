@@ -36,7 +36,7 @@ def build_products_text_and_id_map(rag_results, is_lexical: bool):
     return products_texts, id_to_item
 
 
-def rerank_products(rag_results, query, is_lexical: bool):
+async def rerank_products(rag_results, query, is_lexical: bool):
     products_texts, id_to_item = build_products_text_and_id_map(rag_results, is_lexical)
 
     prompt = (
@@ -55,7 +55,7 @@ def rerank_products(rag_results, query, is_lexical: bool):
     chain = prompt | llm
 
     try:
-        response = chain.invoke({"query": query, "products_texts": str(products_texts)})
+        response = await chain.ainvoke({"query": query, "products_texts": str(products_texts)})
 
         print(f"🤖 LLM selected IDs: {response.selected_ids}")
         print(f"Selected {len(response.selected_ids)}/{len(rag_results)} items after reranking.")
@@ -74,7 +74,7 @@ def rerank_products(rag_results, query, is_lexical: bool):
         print(f"Reranking failed, returning original results: {str(e)}")
         return rag_results
 
-def rerank_docs(rag_results, query):
+async def rerank_docs(rag_results, query):
     id_to_item = {}
     for item in rag_results:
         item_id = item.payload.get("id") if hasattr(item, "payload") else None
@@ -104,7 +104,7 @@ def rerank_docs(rag_results, query):
     chain = prompt | llm
 
     try:
-        response = chain.invoke({"query": query, "items_json": items_json})
+        response = await chain.ainvoke({"query": query, "items_json": items_json})
 
         print(f"🤖 Gemini Flash selected IDs: {response.selected_ids}")
         print(f"Selected {len(response.selected_ids)}/{len(rag_results)} catalog items after reranking.")

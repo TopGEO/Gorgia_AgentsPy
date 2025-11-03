@@ -2,13 +2,14 @@ import json
 import hashlib
 from .embedder import EmbeddingCreator, PointInserter
 from loguru import logger
+import aiofiles
 
 VECTOR_SIZE = 3072
 
 
-def _read_json_file(file_path: str) -> list[dict]:
-    with open(file_path, 'r') as file:
-        data = json.load(file)
+async def _read_json_file(file_path: str) -> list[dict]:
+    async with aiofiles.open(file_path, 'r') as file:
+        data = json.loads(await file.read())
     return data
 
 
@@ -56,6 +57,6 @@ async def _process_brands_data(brand_json_list: list[dict], max_batch_size: int,
 
 
 async def run_brands_pipeline(file_path: str = 'brand_summary.json', max_batch_size: int = 20, collection_name: str = 'gorgia_catalog_hybrid'):
-    brand_json_list = _read_json_file(file_path)
+    brand_json_list = await _read_json_file(file_path)
     await _process_brands_data(brand_json_list, max_batch_size, collection_name)
 
