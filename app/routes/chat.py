@@ -39,8 +39,8 @@ async def chat_endpoint(request: ChatRequest):
     try:
         session_id = request.session_id or str(uuid.uuid4())
 
-        history = chat.get_message_history(session_id, request.browser_id)
-        
+        history = await chat.get_message_history(session_id, request.browser_id)
+
         # Sanitize messages from database to comply with Gemini's conversation rules
         messages = sanitize_messages_for_gemini(list(history.messages)) if history.messages else []
 
