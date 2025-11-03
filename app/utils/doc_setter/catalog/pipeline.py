@@ -4,7 +4,7 @@ from .embedder import EmbeddingCreator, PointInserter
 from .collection import create_hybrid_collection, delete_collection
 from loguru import logger
 
-COLLECTION_NAME = "zoommer_catalog_hybrid"
+COLLECTION_NAME = "gorgia_catalog_hybrid"
 VECTOR_SIZE = 3072
 
 embedding_creator = EmbeddingCreator('gemini-embedding-001', VECTOR_SIZE)

@@ -69,7 +69,7 @@ async def embed_text_documents_from_path(
 
 
 async def run_doc_setter_pipeline(
-    collection_name: str = 'zoommer_docs_hybrid',
+    collection_name: str = 'gorgia_docs_hybrid',
     docs_path: str = './docs',
     api_key: str = None,
     model: str = 'gemini-embedding-001',

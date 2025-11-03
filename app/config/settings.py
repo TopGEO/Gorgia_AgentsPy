@@ -16,7 +16,7 @@ class Settings(BaseSettings):
     temperature: float = 0.1
 
     vector_dimension: int = 3072
-    qdrant_collection: str = "zoommer_products_hybrid"
+    qdrant_collection: str = "gorgia_products_hybrid"
 
     class Config:
         env_file = str(ROOT_DIR / ".env")

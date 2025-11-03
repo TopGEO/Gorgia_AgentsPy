@@ -24,7 +24,7 @@ async def get_product_details(product_id: List[str], ) -> str:
     try:
         product_id = [int(pid) for pid in product_id]
         print(f"Searching for IDs: {product_id}")
-        results = await vector_store.search_by_id(ids=product_id, collection="zoommer_products_hybrid")
+        results = await vector_store.search_by_id(ids=product_id, collection="gorgia_products_hybrid")
         cleaned_results = []
         for item in results:
             try:

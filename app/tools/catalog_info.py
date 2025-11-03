@@ -8,7 +8,7 @@ async def get_catalog_info(query: str = Field(description="A clear, specific sea
     """Get full catalog information based on a search query."""
     print(f'Catalog - searching catalog for query: 🔸{query}🔸')
     try:
-        results = await vector_store.dense_search(query=query, k=2, collection="zoommer_catalog_hybrid")
+        results = await vector_store.dense_search(query=query, k=2, collection="gorgia_catalog_hybrid")
         # print(f"Catalog Results Count (before reranking): {len(results)}")
         
         # reranked_results = rerank_docs(results, query)

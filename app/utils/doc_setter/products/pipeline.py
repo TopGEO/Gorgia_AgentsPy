@@ -95,7 +95,7 @@ class ProductEmbedderPipeline:
 
 
 async def run_products_pipeline(
-    collection_name: str = "zoommer_products_hybrid",
+    collection_name: str = "gorgia_products_hybrid",
     model: str = "gemini-embedding-001",
     vector_size: int = 3072,
     bulk_fetch_size: int = 100,

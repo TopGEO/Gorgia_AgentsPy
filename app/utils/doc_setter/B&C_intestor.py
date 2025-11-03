@@ -2,7 +2,7 @@ import asyncio
 from catalog import run_catalog_pipeline, run_brands_pipeline
 from loguru import logger
 
-COLLECTION_NAME = "zoommer_catalog_hybrid"
+COLLECTION_NAME = "gorgia_catalog_hybrid"
 
 async def run_all_pipelines():
     logger.info("Starting both pipelines concurrently...")

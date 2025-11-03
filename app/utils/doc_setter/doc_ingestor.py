@@ -12,7 +12,7 @@ if __name__ == "__main__":
         exit(1)
     
     asyncio.run(run_doc_setter_pipeline(
-        collection_name="zoommer_docs_hybrid",
+        collection_name="gorgia_docs_hybrid",
         docs_path=docs_path,
         api_key=api_key,
         model='gemini-embedding-001',

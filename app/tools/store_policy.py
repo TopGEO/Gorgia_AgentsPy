@@ -12,7 +12,7 @@ async def get_store_policy(query: str) -> str:
     """
     print(f"[Docs] - searching company information for query: 🔸{query}🔸")
     try:
-        results = await vector_store.hybrid_search(query=query, k=7, collection="zoommer_docs_hybrid")
+        results = await vector_store.hybrid_search(query=query, k=7, collection="gorgia_docs_hybrid")
         print(f"Found {len(results)} results from vector store")
         
         return str([result.payload for result in results])

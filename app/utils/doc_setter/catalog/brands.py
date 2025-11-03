@@ -55,7 +55,7 @@ async def _process_brands_data(brand_json_list: list[dict], max_batch_size: int,
     return total_inserted
 
 
-async def run_brands_pipeline(file_path: str = 'brand_summary.json', max_batch_size: int = 20, collection_name: str = 'zoommer_catalog_hybrid'):
+async def run_brands_pipeline(file_path: str = 'brand_summary.json', max_batch_size: int = 20, collection_name: str = 'gorgia_catalog_hybrid'):
     brand_json_list = _read_json_file(file_path)
     await _process_brands_data(brand_json_list, max_batch_size, collection_name)
 
