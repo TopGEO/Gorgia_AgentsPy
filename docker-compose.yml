@@ -2,12 +2,12 @@ services:
   app:
     build:
       context: .
-    container_name: agentspy
-    command: uvicorn app.api:app --host 0.0.0.0 --port 8008 --reload --log-level debug
+    container_name: gorgia-agentspy
+    command: uvicorn app.api:app --host 0.0.0.0 --port 8009 --reload --log-level debug
     volumes:
       - .:/app
     ports:
-      - "8008:8008"
+      - "8009:8009"
     env_file:
       - .env
     environment:
