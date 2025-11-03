@@ -1,0 +1,26 @@
+Payment Methods - Gorgia Online Store
+
+---
+### Available Payment Options
+Customers can pay for their orders using the following methods:
+1. By Card (Visa, MasterCard, Amex)
+2. By Bank Transfer
+3. By Installment (through partner banks)
+4. By Contract (based on agreement with the company)
+
+---
+### Partner Banks and Payment Systems
+- Bank of Georgia (BOG)
+- TBC Bank
+- iGPay (Apple Pay & Google Pay)
+- TBC Distribution
+- TBC Installment
+- BOG Installment
+- Credo Installment
+- Space Installment
+- Tera Installment
+- Standard Bank Transfer options are also available.
+
+---
+### Notes
+All payment transactions are processed securely in compliance with Gorgia’s online purchase standards.

@@ -27,6 +27,12 @@ app.add_middleware(
 app.middleware("http")(token_validation_middleware)
 
 
+@app.on_event("startup")
+async def startup_event():
+    """Initialize database tables on server startup"""
+    await chat.initialize_chat_table()
+
+
 @app.get("/")
 async def home():
     """Health check endpoint"""
@@ -42,13 +48,14 @@ async def chat_endpoint(request: ChatRequest):
         history = await chat.get_message_history(session_id, request.browser_id)
 
         # Sanitize messages from database to comply with Gemini's conversation rules
-        messages = sanitize_messages_for_gemini(list(history.messages)) if history.messages else []
+        existing_messages = await history.aget_messages()
+        messages = sanitize_messages_for_gemini(list(existing_messages)) if existing_messages else []
 
         user_message = build_message_with_images(request.message, request.image_urls)
         messages.append(user_message)
 
         # Save user message to history before processing
-        await history.aadd_message(user_message)
+        await history.aadd_messages([user_message])
 
         graph = await create_graph()
         result = await process_graph_iterations(

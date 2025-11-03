@@ -1,0 +1,96 @@
+Personal Data Processing Policy
+LLC “Gorgia”
+
+ID Number: 245621288
+Address: Georgia, Batumi, Sokhumi St. N10 / Tbilisi, Tsereteli Ave. N140
+Email: web@gorgia.ge
+Phone: 032 2 960 960
+
+---
+### Definitions
+
+1.1 Personal Data – any information related to an identified or identifiable natural person. A person is identifiable when they can be identified directly or indirectly, including by name, surname, ID number, geolocation, communication data, or physical and physiological characteristics.
+
+1.2 Data Controller – LLC “Gorgia” determines the purposes and means of data processing and performs processing directly or via an authorized processor.
+
+1.3 Data Processor – any legal entity or public body that processes data for or on behalf of us.
+
+1.4 Data Subject – a natural person (customer, employee, contractor) who uses, intends to use, or expresses interest in our products or services. Also includes representatives or third parties connected to them.
+
+1.5 Data Processing – any action performed on data: collection, access, photographing, video or audio monitoring, organization, grouping, storage, modification, recovery, use, blocking, deletion, destruction, or disclosure by transmission, publication, or any other means.
+
+1.6 Automated Processing – data processing using information technology.
+
+1.7 Non-Automated Processing – data processing without using information technology.
+
+1.8 Semi-Automated Processing – data processing using both automated and non-automated methods.
+
+1.9 Consent – freely and clearly expressed will of the data subject, given after being informed, for data processing for a specific purpose.
+
+1.10 Direct Marketing – providing information directly to a person via phone, mail, email, or other electronic means for promotion, image-building, or social purposes.
+
+1.11 Video Monitoring – visual recording or control using installed devices in public or private areas.
+
+1.12 Audio Monitoring – sound recording or control using installed devices in public or private areas.
+
+---
+### Data Processing Principles
+
+2.1 a) Data must be processed lawfully, fairly, transparently, and without violating human dignity.  
+b) Data must be collected for specific, clear, and legitimate purposes only. Further processing for incompatible purposes is not allowed.  
+c) Data must be adequate, relevant, and limited to what is necessary.  
+d) Data must be accurate and updated when necessary. Incorrect data must be corrected or deleted without delay.  
+e) Data must be kept only as long as necessary for the legitimate purpose.  
+f) Technical and organizational measures must ensure data security.
+
+---
+### Legal Grounds for Processing
+
+3.1 a) Consent of the data subject for one or more specific purposes.  
+b) Processing necessary to perform a contract or pre-contractual request.  
+c) Processing required by law.  
+d) Processing necessary for the controller to perform legal duties.  
+e) Data made public by law or by the data subject.  
+f) Processing necessary to protect vital interests, including public health or crisis response.  
+g) Processing necessary for public interest.  
+h) Processing required for public functions by law.  
+i) Processing necessary for legitimate interests of the controller or a third party.  
+j) Processing necessary to review a data subject’s application or provide services.
+
+---
+### Processing for Direct Marketing
+
+4.1 Direct marketing may be carried out only with the data subject’s consent.  
+4.2 Beyond name, surname, address, phone, and email, written consent is required for any other data.  
+4.3 The controller (LLC “Gorgia”) must stop processing for direct marketing upon request, within 7 business days.  
+4.4 The controller must ensure that the data subject can request to stop processing using the same channel as the marketing communication or another adequate method.
+
+---
+### Video Monitoring
+
+5.1 To prevent or detect crime, protect security, property, confidential information, or test procedures, LLC “Gorgia” conducts video monitoring in external areas, entrances, foyers, corridors, administration buildings, and branches. Warning signs are visibly displayed.
+
+---
+### Audio Monitoring
+
+6.1 With the data subject’s consent, for official recording or protection of Gorgia’s interests, or as required by law, audio monitoring is conducted. Warning signs are visibly displayed.
+
+---
+### Rights of the Data Subject
+
+7.1 Right to receive information about data processing.  
+7.2 Right to access and obtain a copy of data.  
+7.3 Right to correct, update, or complete data.  
+7.4 Right to stop, delete, or destroy data.  
+7.5 Right to block data.  
+7.6 Right to data portability.  
+7.7 Right related to automated decision-making.  
+7.8 Right to withdraw consent.  
+7.9 Right to appeal.  
+7.10 Rights may be limited only by Georgian law if necessary and proportionate in a democratic society.
+
+---
+### Data Security
+
+8.1 Gorgia ensures data confidentiality and security. Technical and organizational measures protect data, including HTTPS connection and protection against XSS and CSRF vulnerabilities.  
+8.2 Only employees who need data to perform their official duties have access to personal data.

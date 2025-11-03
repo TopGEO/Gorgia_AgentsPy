@@ -21,6 +21,37 @@ async def _get_connection():
 
     return _connection
 
+async def initialize_chat_table():
+    """Initialize the chat messages table on startup. Called once when FastAPI starts."""
+    global _table_created
+
+    if _table_created:
+        return
+
+    conn = await _get_connection()
+
+    # Use langchain_postgres built-in table creation
+    from langchain_postgres import PostgresChatMessageHistory
+    await PostgresChatMessageHistory.acreate_tables(conn, "gorgia_chat_messages")
+
+    # Add browser_id column if it doesn't exist (custom field for our use case)
+    async with conn.cursor() as cur:
+        await cur.execute("""
+            DO $$
+            BEGIN
+                IF NOT EXISTS (
+                    SELECT 1 FROM information_schema.columns
+                    WHERE table_name='gorgia_chat_messages' AND column_name='browser_id'
+                ) THEN
+                    ALTER TABLE gorgia_chat_messages ADD COLUMN browser_id TEXT;
+                    CREATE INDEX idx_browser_id ON gorgia_chat_messages(browser_id);
+                END IF;
+            END $$;
+        """)
+    await conn.commit()
+    _table_created = True
+    print("✅ Chat table initialized successfully")
+
 async def get_message_history(session_id: str, browser_id: str = None) -> PostgresChatMessageHistory:
     global _connection, _table_created
 
