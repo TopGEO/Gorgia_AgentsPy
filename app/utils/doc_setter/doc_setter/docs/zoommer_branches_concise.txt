@@ -1,0 +1,82 @@
+Zoommer Branches (Full English Summary)
+
+1. Tsereteli Branch – Tbilisi
+   Address: Tsereteli Ave 1 | Phone: +995 591 967 601 | Open: Yes
+   Hours: Mon–Sat 10:00–20:00, Sun 10:00–19:00 | Lat: 41.7237, Lon: 44.7920
+
+2. Pekini Branch – Tbilisi
+   Address: K. Gamsakhurdia (Pekini) Ave 14a | Phone: +995 591 967 671 | Open: Yes
+   Hours: Mon–Sat 10:00–21:00, Sun 10:00–20:00 | Lat: 41.7218, Lon: 44.7740
+
+3. Tbilisi Central Branch – Tbilisi
+   Address: “Tbilisi Central” 3rd Floor | Phone: +995 599 862 449 | Open: Yes
+   Hours: Mon–Sat 10:00–20:00, Sun 10:00–19:00 | Lat: 41.7217, Lon: 44.7997
+
+4. City Mall Saburtalo Branch – Tbilisi
+   Address: City Mall, Petre Kavtaradze 1 | Phone: +995 591 971 962 | Open: Yes
+   Hours: Mon–Sun 10:00–22:00 | Lat: 41.7281, Lon: 44.7381
+
+5. Tbilisi Mall Branch – Tbilisi
+   Address: Tbilisi Mall, Aghmashenebeli Hwy 16th km | Phone: +995 591 967 608 | Open: Yes
+   Hours: Mon–Sun 10:00–22:00 | Lat: 41.8172, Lon: 44.7723
+
+6. Gldani Mall Branch – Tbilisi
+   Address: Gldani Mall, near M. Akhmeteli | Phone: +995 591 967 673 | Open: Yes
+   Hours: Mon–Sun 10:00–21:00 | Lat: 41.7920, Lon: 44.8156
+
+7. East Point Branch – Tbilisi
+   Address: East Point, A. Tvalchrelidze 2 | Phone: +995 591 340 476 | Open: Yes
+   Hours: Mon–Sun 10:00–22:00 | Lat: 41.6910, Lon: 43.8965
+
+8. Rustavi Mall Branch – Rustavi
+   Address: Shartava & Lomtadze Intersection | Phone: +995 591 441 082 | Open: Yes
+   Hours: Mon–Sun 10:00–22:00 | Lat: 41.5630, Lon: 44.9754
+
+9. Chavchavadze Branch – Batumi
+   Address: Chavchavadze 21 | Phone: +995 591 967 606 | Open: Yes
+   Hours: Mon–Sat 10:00–20:00, Sun 10:00–19:00 | Lat: 41.6457, Lon: 41.6376
+
+10. Black Sea Mall Branch – Batumi
+    Address: Black Sea Mall, T. Abuseridze 22 | Phone: +995 591 310 257 | Open: Yes
+    Hours: Mon–Sun 10:00–21:00 | Lat: 41.6373, Lon: 41.6198
+
+11. Grand Mall Branch – Batumi
+    Address: Grand Mall, Sheriff Khimshiashvili 29 | Phone: +995 591 022 872 | Open: Yes
+    Hours: Mon–Sun 10:00–22:00 | Lat: 41.63597, Lon: 41.60761
+
+12. Kutaisi Central Branch – Kutaisi
+    Address: Tamar Mepe 3 | Phone: +995 591 967 605 | Open: Yes
+    Hours: Mon–Sat 10:00–20:00, Sun 10:00–19:00 | Lat: 42.2710, Lon: 42.7058
+
+13. West Mall Branch – Kutaisi
+    Address: West Mall, Shartava 2 | Phone: +995 595 306 765 | Open: Yes
+    Hours: Mon–Sun 10:00–22:00 | Lat: 42.2630, Lon: 42.6701
+
+14. Zugdidi Mall Branch – Zugdidi
+    Address: Zugdidi Mall, Kostava 28 | Phone: +995 591 676 489 | Open: Yes
+    Hours: Mon–Sun 10:00–22:00 | Lat: 42.5030, Lon: 41.8486
+
+15. Gori Mall Branch – Gori
+    Address: Gori Mall, Tskhinvali Hwy 14-14a | Phone: +995 591 198 248 | Open: Yes
+    Hours: Mon–Sun 10:00–22:00 | Lat: 41.99426, Lon: 44.11214
+
+16. Akhaltsikhe Branch – Akhaltsikhe
+    Address: Tamar Mepe 9 | Phone: +995 598 088 659 | Open: No
+    Hours: Mon–Sun 10:00–19:00 | Lat: 41.6393, Lon: 42.9879
+
+17. Online Store (Contact Center)
+    City: Tbilisi | Phone: +995 (32) 2 60 30 60/*7007 | Open: Yes
+    Hours: Mon–Sun 10:00–20:00 | Lat: 41.7237, Lon: 44.7920
+
+18. Telavi Mall Branch – Telavi
+    Address: Telavi Mall, Alazani St 77 | Phone: +995 595 069 853 | Open: Yes
+    Hours: Mon–Sat 10:00–20:00, Sun 10:00–19:00 | Lat: 41.92752, Lon: 45.47288
+
+19. Warehouse – Tbilisi
+    Address: Tbilisi | Open: No | Hours: Mon–Sun 10:00–19:00 | Lat: 41.7459, Lon: 44.7533
+
+20. Wholesale Warehouse – Tbilisi
+    Address: Akaki Tsereteli Ave 1, -1 Floor | Phone: +995 (32) 2 60 30 60 | Open: No
+    Hours: Mon–Sun 10:00–19:00 | Lat: 1.0000, Lon: 1.0000
+
+https://zoommer.ge/branches

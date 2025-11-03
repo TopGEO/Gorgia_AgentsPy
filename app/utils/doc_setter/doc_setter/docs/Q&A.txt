@@ -1,0 +1,477 @@
+
+
+
+
+=== QUESTION ===
+I want an invoice for an organization, I want to purchase in the organization's name, how to buy for a company, send me corporate sales contact information
+
+=== TEMPLATE ===
+Please write detailed information about your request to corporatesales@zoommer.ge, attach the organization's name, identification code, and a list of product/products you wish to purchase. (You can use zoommer.ge - web links or product zoom codes, which are posted on our web page). The corporate sales department will process your request, send you an invoice and all necessary information.
+
+=== ANSWER ===
+To purchase products for an organization, please write us its name and identification code, as well as a list of the products you wish to purchase. The corporate department will process your request. We are sending you contact information:
+📞 (995 591) 441078
+📧 corporatesales@zoommer.ge
+
+=== TAGS ===
+corporate, organization, invoice
+
+
+
+=== QUESTION ===
+You placed an order for me. Can I pay cash to the courier?
+
+=== TEMPLATE ===
+You pay the amount on the site when purchasing the item/items. You can use both card payment, as well as bank installment and transfer. In the case of installment, you will fill out an application for the bank of your choice. If you pay by card, in this case you will provide your card details and the amount will be automatically debited. If you select bank transfer, an invoice will be sent to your email where Zoomer's bank details are indicated. After depositing the amount, you must send us an electronic receipt to the following email: onlinesales@zoommer.ge and after sending the receipt, contact us at *7007 / +995 (32) 2 60 30 60 to verify the order.
+
+=== ANSWER ===
+Unfortunately, I cannot place orders, but I can help you with accurate information about payment methods and delivery service. Can you tell me what you would like to purchase?
+
+=== TAGS ===
+payment to courier, payment methods
+
+
+
+=== QUESTION ===
+I lost my warranty card, I want to restore the warranty card. I should have received an SMS but I didn't receive the warranty
+
+=== TEMPLATE ===
+Please write to us at email: info@zoommer.ge that you want to restore your warranty card. In the email, record the buyer's first and last name, personal number, mobile number, and item model, for which product you want to restore the warranty card. The customer service department will send you an electronic warranty card by email within the day.
+
+=== ANSWER ===
+To restore your warranty card, you should write to info@zoommer.ge.
+
+=== TAGS ===
+warranty card restoration, warranty
+
+
+
+
+=== QUESTION ===
+Until what time do installment managers work? Where is the Liberty Bank installment manager?
+
+=== TEMPLATE ===
+Bank representatives work at the Tbilisi, Batumi, Rustavi branches: Monday-Friday 10:00-19:00, Saturday-Sunday 10:00-18:00 inclusive. At the Kutaisi, Akhaltsikhe, Telavi, Zugdidi and Gori branches: Monday-Sunday 10:00-18:00 inclusive. Please note that the bank representative you want may not be available at any branch, so please specify the bank and desired branch so that we can send you the contact information of your desired branch and you can verify the information before visiting.
+
+=== ANSWER ===
+Our installment managers work during branch business hours, typically from 10:00 to 19:00. You will find Liberty Bank (and our other partner banks) representatives at Zoomer branches. To view the addresses, business hours, and contact information of specific branches, you can visit our website: https://zoommer.ge/info/branches
+
+=== TAGS ===
+installment managers' work schedule, bank
+
+
+=== QUESTION ===
+When does this promotion end? Will it have the same price tomorrow?
+
+=== TEMPLATE ===
+Information about the promotion's end date is not known in advance. Please note that prices are constantly changing. If desired, you can use the price booking service on the website and for 24 hours you will be able to enjoy the same price when placing an order on the site. Note that the price booking only works on zoommer.ge.
+
+=== ANSWER ===
+The promotion end date is not specified, so unfortunately, I cannot tell you if it will have the same price tomorrow.
+
+=== TAGS ===
+promotion duration, prices
+
+
+
+=== QUESTION ===
+Can someone else pick it up for me? I want to change the recipient
+
+=== TEMPLATE ===
+It is possible for you to order an item and someone else to pick it up. In this case, after completing the order, write to us:
+1) Order number
+2) First name/last name
+3) Personal number/mobile number
+of the person who will receive it at the address / pick it up from the branch
+
+=== ANSWER ===
+Yes, it is possible. Please contact our information center at number: 032 2 60 30 60, or write to us at email: info@zoommer.ge. The operator will help you change the details.
+
+=== TAGS ===
+recipient change, order
+
+
+
+=== QUESTION ===
+Do you have delivery? How long will it take to deliver? Do you have couriers? How long will it take to deliver to Khelvachauri?
+
+=== TEMPLATE ===
+We have two types of delivery service. In Tbilisi we have express delivery service, which costs 5 GEL and if you place an order before 15:00, you can receive the item on the same day, and if you place an express delivery order after 15:00, it will be delivered the next day. Also free delivery service, in which case in Tbilisi it takes 3-5 business days to deliver the item, and in the regions a maximum of 3-6 business days. If the item costs less than 50 GEL, 5 GEL is added for both delivery methods.
+
+=== ANSWER ===
+Yes, of course! We have delivery service throughout Georgia. In Khelvachauri, you will receive the order in 3 to 6 business days. We have fast delivery, but only within Tbilisi. If you place an order before 15:00, they will deliver it on the same day, and after 15:00 the next day. In the regions, including Khelvachauri, at this stage we only have standard delivery, in 3 to 6 business days.
+
+=== TAGS ===
+delivery methods, courier, time
+
+
+
+=== QUESTION ===
+Where can I see the order code?
+
+=== TEMPLATE ===
+To find the order number, visit https://zoommer.ge/, go to your profile and in current orders you will see the order number.
+
+=== ANSWER ===
+You can view the order code:
+- On the confirmation page after completing the order
+- By SMS or email, which you provide when placing the order
+If you have a Zoomer account, you can log into your profile and in the "My Orders" section see all your orders and their codes. If you can't find the code, check your email's spam/junk folders.
+
+=== TAGS ===
+order code, order
+
+
+
+=== QUESTION ===
+I just bought it and I'm going to pick it up. When can I pick it up? Is it already ready?
+
+=== TEMPLATE ===
+When the customer selects pickup from the branch, in this case the online sales/online installment group needs to send certain documentation to the relevant branch, to reserve the item for the customer. Accordingly, they need some time.
+
+=== ANSWER ===
+As soon as the order is ready, you will receive an SMS notification on your mobile number. Please wait for the notification and then visit the desired branch to pick up the item.
+
+=== TAGS ===
+order status, branch
+
+
+
+=== QUESTION ===
+Service center address Tbilisi
+
+=== TEMPLATE ===
+Warranty service center - Technoline
+Address: Tbilisi, Tsintadze N26
+Tel: 032 2 30 40 80
+Work schedule: Monday - Friday 10:00 - 18:00
+Saturday 11:00 - 18:00
+Sunday is a non-working day
+https://www.facebook.com/TechnolineGeorgia
+
+=== ANSWER ===
+Our service center is "Technoline". Address: S. Tsintadze 26. Phone: (032) 230 40 80.
+
+=== TAGS ===
+Technoline, Tbilisi, service center
+
+
+
+=== QUESTION ===
+Service center address Kutaisi
+
+=== TEMPLATE ===
+Warranty service center "Technoline" - Kutaisi
+Address: West Mall, J. Shartava 2
+Tel: 0322304080 591082312
+info@technoline.ge
+
+=== ANSWER ===
+In Kutaisi, our main service center is located at I. Chavchavadze N 67, in the "Grand Mall" shopping center, N317. ☎️ 591082312.
+
+Also, our branches in Kutaisi are:
+- Tamar Mepe St. N3, Kutaisi Central Square. 591 967 605
+- "West Mall" - Shartava N2. 595 306 765
+
+If you need service or repair, please visit the main service center at the Grand Mall address.
+
+=== TAGS ===
+Technoline, Kutaisi, service center
+
+
+
+=== QUESTION ===
+Service center address Zugdidi
+
+=== TEMPLATE ===
+Warranty service center "Technoline" - Zugdidi
+Address: Zugdidi Mall, Kostava 28
+Tel: 555412312
+info@technoline.ge
+
+=== ANSWER ===
+In Zugdidi, our service center is located in Zugdidi Mall, at Kostava Street N28. For assistance, you can call 555 41 23 12 or 591 676 489. We work every day, from 10:00 to 22:00.
+
+=== TAGS ===
+Technoline, Zugdidi, service center
+
+
+
+=== QUESTION ===
+Service center address Batumi
+
+=== TEMPLATE ===
+Warranty service center "Technoline" - Batumi
+Address: Chavchavadze and Demetre Tavdadebulis intersection
+Tel: 0322304080 557082332
+info@technoline.ge
+
+=== ANSWER ===
+In Batumi, our main service center is located at the intersection of I. Chavchavadze and Demetre Tavdadebuli streets. ☎️ 557 08 23 32.
+
+Also, in Batumi we have branches:
+- Chavchavadze St. N21. 591 967 606
+- "Black Sea Mall" - Tbel Abuseridze N22. 591 310 257
+- "Grand Mall" - Sherif Khimshiashvili 29. 591 022 872
+
+For warranty and service cases, please contact the main service center at Chavchavadze and Tavdadebuli intersection.
+
+=== TAGS ===
+Technoline, Batumi, service center
+
+
+
+=== QUESTION ===
+Where to send a CV?
+
+=== TEMPLATE ===
+Zoomer HR department
+Vacancy@zoommer.ge
+Tel: *7007
+
+=== ANSWER ===
+I would be happy to help, but my competency is only consulting on Zoommer's products. Regarding vacancies, please visit our career page: https://zoommer.ge/info/career. I wish you success!
+
+=== TAGS ===
+vacancy, HR, career
+
+
+
+=== QUESTION ===
+iPhone series and models that are not available on the site, e.g.: 11 and 11 Pro Max, 12 and others if the customer asks
+
+=== TEMPLATE ===
+This model is no longer produced by the Apple brand, accordingly we no longer have it for sale. However, we can offer you a wide range of Apple smartphones, in various price categories. You can view the products at the link: https://zoommer.ge/search/APPLE%20%20IPHONE%20?categoryIds=855
+
+=== ANSWER ===
+These models are no longer produced by the brand, we have the latest iPhone series. Which one are you interested in?
+
+=== TAGS ===
+Apple, models, unavailable
+
+
+
+=== QUESTION ===
+In the case of installment, what percentage is added? How much do I have to pay monthly?
+
+=== TEMPLATE ===
+You need to talk to the bank representative about installment terms. They themselves will tell you how much the monthly payment will be and how much will be added to the item's cost. When placing an online order, the site will show you the monthly payment and the final amount. Generally, from Zoomer company's side, in the case of TBC, Bank of Georgia and Credo Bank installments, the item's cost does not change.
+
+=== ANSWER ===
+The exact percentage depends on the bank, chosen product and installment period. Therefore, you will learn the exact terms when the installment is approved.
+
+=== TAGS ===
+installment terms, bank
+
+
+
+=== QUESTION ===
+I can't select pickup
+
+=== TEMPLATE ===
+If you are buying together with accessories, you can only use the delivery service, if you do not want accessories, select only the model or delete it in the cart after adding it and you will be able to pick up the order from the branch.
+
+=== ANSWER ===
+Presumably, the product is not available at the branch and you can only use the delivery service. Would you like me to help you with placing the order?
+
+=== TAGS ===
+pickup not available, branch
+
+
+
+=== QUESTION ===
+Do you have tax free? I want tax free. How much will be refunded on tax free?
+
+=== TEMPLATE ===
+Tax Free - you can use the service only at our branches. Please note that it is mandatory that the person for whom the Tax Free documentation should be issued be present on site and must notify the consultant about using the service before purchase. At the branch, after payment, you can see the exactly calculated refund amount on the receipt, which will be refunded through the customs department.
+
+=== ANSWER ===
+Unfortunately, we do not have the "Tax Free" service. This is a value added tax (VAT) refund service for tourists. However, you can return the purchased item within 14 days and the amount will be fully refunded to you.
+
+=== TAGS ===
+Tax Free, return
+
+
+
+=== QUESTION ===
+I want to return/exchange an item
+
+=== TEMPLATE ===
+Do you have the item purchased online or at a branch? (When the customer returns the answer, they should be redirected to an operator)
+
+=== ANSWER ===
+Of course, item return or exchange is possible. In the case of online purchase, within 14 calendar days you can return the item without any reason. And if the item is found to have a factory defect, within 7 days you can request its replacement. For detailed information and application form, you can visit the link: https://zoommer.ge/info/return-policy
+
+=== TAGS ===
+item exchange/return, policy
+
+
+
+=== QUESTION ===
+Does the iPhone have a warranty?
+
+=== TEMPLATE ===
+All products purchased at Zoomer are covered by a 2-year warranty.
+
+=== ANSWER ===
+Yes, the iPhone 17 Pro Max has a 2-year official warranty.
+
+=== TAGS ===
+Apple, warranty
+
+
+
+=== QUESTION ===
+I want to fill out an installment
+
+=== TEMPLATE ===
+To fill out an installment, several steps are required:
+- First visit our page zoommer.ge
+- Choose the desired item
+- In the right corner of the site, click the "Buy" button
+- Fill out the order details completely
+- After filling out the order details, in the right corner of the site, click the "Payment" button
+- In the payment details, select "Purchase with installment" and select the desired bank
+After completing these steps, you will provide details on the bank's page.
+
+=== ANSWER ===
+Yes, of course! You can purchase Samsung Galaxy A16 A165F/DS LTE 4/128GB Black with us on installment. When placing an order, you should select the desired bank's installment in the payment methods. For additional information, you can visit the links:
+- https://zoommer.ge/info/payment-methods
+- https://zoommer.ge/info/installment-process
+Which bank's installment are you interested in?
+
+=== TAGS ===
+installment filling assistance, instructions
+
+
+
+=== QUESTION ===
+Which region is the iPhone from?
+
+=== TEMPLATE ===
+The region is posted directly on the item's packaging. If you want to verify the information, please write to us the desired branch and we will send you their contact number. It is better to contact the branch or visit them for selection, as they may have models from different regions on site.
+
+=== ANSWER ===
+All our available models are intended for the Caucasus region and have been officially imported to Georgia. This means they are fully compatible with local networks and have an official warranty.
+
+=== TAGS ===
+item region, iPhone
+
+
+
+
+=== QUESTION ===
+Samsung Galaxy A16 A165F/DS LTE 6/128GB Black which region is it from?
+
+=== TEMPLATE ===
+The region is posted directly on the item's packaging. If you want to verify the information, please write to us the desired branch and we will send you their contact number. It is better to contact the branch or visit them for selection, as they may have models from different regions on site.
+
+=== ANSWER ===
+Samsung Galaxy A16 A165F/DS LTE 6/128GB Black - this model is a global version that is fully compatible with Georgia's networks.
+
+=== TAGS ===
+item region, Samsung
+
+
+
+=== QUESTION ===
+
+What does price booking mean?
+
+=== TEMPLATE ===
+You can book the price for 24 hours only online.
+If you cannot purchase the product in time, we recommend that you book the price. For 24 hours you will be able to keep the existing price at will. In the case of "price booking", the booking will be activated on your profile, when you visit the web page again, the booked price will appear.
+
+=== ANSWER ===
+You can book the price for 24 hours. Price booking only works online. If you cannot purchase the product in time, we recommend that you book the price. For 24 hours you will be able to keep the existing price at will. In the case of "price booking", the booking will be activated on your profile, when you visit the web page again, the booked price will appear.
+
+=== TAGS ===
+price booking
+
+
+
+
+=== QUESTION ===
+Will you bring it up to the apartment?
+Will you carry it up to the third floor?
+
+
+=== TEMPLATE ===
+We don’t offer in-apartment delivery service.
+Please meet the courier at the entrance/house.
+
+=== ANSWER ===
+We don’t offer in-apartment delivery service.
+Please meet the courier at the entrance/house.
+
+=== TAGS ===
+Door to door
+
+
+
+
+=== QUESTION ===
+How long is the warranty for Apple phones?
+What is the warranty period for products purchased from you?
+How long is the warranty for Samsung?
+
+
+=== TEMPLATE ===
+All devices in our shop come with a 2-year warranty.
+Warranty cases are handled by the company Technoline.
+
+=== ANSWER ===
+All devices in our shop come with a 2-year warranty.
+Warranty cases are handled by the company Technoline.
+
+=== TAGS ===
+Warranty
+
+
+
+=== QUESTION ===
+Do you have BOG, (Bank of Georgia) buy now pay later? Natsil Natsil? bogi natsil natsil?
+
+=== TEMPLATE ===
+We don't have bogi natsil natsil. We have TBC Bank's pay later .
+
+=== ANSWER ===
+We Don't have Bog Natsil Natsil. We have TBC Bank's pay later. We don't have bogi natsil natsil. 
+=== TAGS ===
+BNPL
+
+
+
+=== QUESTION ===
+
+Do You have Mere Bank card installment? 
+
+=== TEMPLATE ===
+
+No, We don't have it.
+
+=== ANSWER ===
+
+No, We don't have it.
+
+=== TAGS ===
+Mere Bank
+
+
+
+=== QUESTION ===
+
+Do you have Liberty bank online installment? 
+
+=== TEMPLATE ===
+
+No, We don't have it.
+
+=== ANSWER ===
+
+No, We don't have it.
+
+=== TAGS ===
+liberty bank online installment
+
+

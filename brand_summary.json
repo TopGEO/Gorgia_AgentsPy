@@ -1,0 +1,3075 @@
+[
+  {
+    "category": "Canon",
+    "brands": [
+      "Canon"
+    ],
+    "text": "For Canon we have Canon brands."
+  },
+  {
+    "category": "Other consoles",
+    "subcategory": "Steam Deck",
+    "brands": [
+      "Steam Deck"
+    ],
+    "text": "For Other consoles Steam Deck we have Steam Deck brands."
+  },
+  {
+    "category": "Other consoles",
+    "subcategory": "Console Accessories",
+    "brands": [
+      "Tomtoc",
+      "Uniq",
+      "Spigen",
+      "Ugreen"
+    ],
+    "text": "For Other consoles Console Accessories we have Tomtoc, Uniq, Spigen, Ugreen brands."
+  },
+  {
+    "category": "Other consoles",
+    "subcategory": "Lenovo",
+    "brands": [
+      "Lenovo"
+    ],
+    "text": "For Other consoles Lenovo we have Lenovo brands."
+  },
+  {
+    "category": "Other consoles",
+    "subcategory": "Oculus",
+    "brands": [
+      "Meta",
+      "Spigen"
+    ],
+    "text": "For Other consoles Oculus we have Meta, Spigen brands."
+  },
+  {
+    "category": "Other consoles",
+    "subcategory": "Backbone",
+    "brands": [
+      "Backbone"
+    ],
+    "text": "For Other consoles Backbone we have Backbone brands."
+  },
+  {
+    "category": "Graphics Drawing Tablets",
+    "brands": [
+      "Wacom",
+      "XP-Pen ",
+      "Xiaomi"
+    ],
+    "text": "For Graphics Drawing Tablets we have Wacom, XP-Pen , Xiaomi brands."
+  },
+  {
+    "category": "Cables",
+    "subcategory": "HDMI Cables",
+    "brands": [
+      "Spigen",
+      "Belkin",
+      "Ugreen"
+    ],
+    "text": "For Cables HDMI Cables we have Spigen, Belkin, Ugreen brands."
+  },
+  {
+    "category": "Cables",
+    "subcategory": "Type-C",
+    "brands": [
+      "Apple",
+      "Samsung",
+      "Xiaomi",
+      "Anker",
+      "Baseus ",
+      "Belkin",
+      "Ugreen"
+    ],
+    "text": "For Cables Type-C we have Apple, Samsung, Xiaomi, Anker, Baseus , Belkin, Ugreen brands."
+  },
+  {
+    "category": "Cables",
+    "subcategory": "LAN Cables",
+    "brands": [
+      "Baseus ",
+      "Belkin",
+      "Ugreen"
+    ],
+    "text": "For Cables LAN Cables we have Baseus , Belkin, Ugreen brands."
+  },
+  {
+    "category": "Luggage suitcase",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Luggage suitcase we have Xiaomi brands."
+  },
+  {
+    "category": "Monitoring",
+    "subcategory": "Smart hubs",
+    "brands": [
+      "Xiaomi",
+      "Aqara"
+    ],
+    "text": "For Monitoring Smart hubs we have Xiaomi, Aqara brands."
+  },
+  {
+    "category": "Monitoring",
+    "subcategory": "IP cameras",
+    "brands": [
+      "Xiaomi",
+      "Anker",
+      "Aqara"
+    ],
+    "text": "For Monitoring IP cameras we have Xiaomi, Anker, Aqara brands."
+  },
+  {
+    "category": "Monitoring",
+    "subcategory": "Doorbell",
+    "brands": [
+      "Xiaomi",
+      "Anker",
+      "Aqara"
+    ],
+    "text": "For Monitoring Doorbell we have Xiaomi, Anker, Aqara brands."
+  },
+  {
+    "category": "Monitoring",
+    "subcategory": "Motion sensors",
+    "brands": [
+      "Xiaomi",
+      "Aqara"
+    ],
+    "text": "For Monitoring Motion sensors we have Xiaomi, Aqara brands."
+  },
+  {
+    "category": "Monitoring",
+    "subcategory": "Temperature indicators",
+    "brands": [
+      "Xiaomi",
+      "Aqara"
+    ],
+    "text": "For Monitoring Temperature indicators we have Xiaomi, Aqara brands."
+  },
+  {
+    "category": "Monitoring",
+    "subcategory": "Smart switches",
+    "brands": [
+      "Xiaomi",
+      "Havit",
+      "Amazon",
+      "Aqara"
+    ],
+    "text": "For Monitoring Smart switches we have Xiaomi, Havit, Amazon, Aqara brands."
+  },
+  {
+    "category": "Monitoring",
+    "subcategory": "Smart door lock",
+    "brands": [
+      "Lockin",
+      "Aqara"
+    ],
+    "text": "For Monitoring Smart door lock we have Lockin, Aqara brands."
+  },
+  {
+    "category": "Monitoring",
+    "subcategory": "GPS Trackers",
+    "brands": [
+      "Apple",
+      "Samsung",
+      "Ugreen"
+    ],
+    "text": "For Monitoring GPS Trackers we have Apple, Samsung, Ugreen brands."
+  },
+  {
+    "category": "Monitoring",
+    "subcategory": "Video recorders",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Monitoring Video recorders we have Xiaomi brands."
+  },
+  {
+    "category": "Home care",
+    "subcategory": "Air humidifier accessories",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Home care Air humidifier accessories we have Xiaomi brands."
+  },
+  {
+    "category": "Home care",
+    "subcategory": "Vacuum cleaner accessories",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Home care Vacuum cleaner accessories we have Xiaomi brands."
+  },
+  {
+    "category": "Home care",
+    "subcategory": "Water Dispenser",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Home care Water Dispenser we have Xiaomi brands."
+  },
+  {
+    "category": "Home care",
+    "subcategory": "Air purifier accessories",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Home care Air purifier accessories we have Xiaomi brands."
+  },
+  {
+    "category": "Home care",
+    "subcategory": "Air purifier",
+    "brands": [
+      "Xiaomi",
+      "Dyson"
+    ],
+    "text": "For Home care Air purifier we have Xiaomi, Dyson brands."
+  },
+  {
+    "category": "Home care",
+    "subcategory": "Portable vacuum cleaners",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Home care Portable vacuum cleaners we have Xiaomi brands."
+  },
+  {
+    "category": "Home care",
+    "subcategory": "Hand vacuum cleaners",
+    "brands": [
+      "Xiaomi",
+      "Dyson",
+      "Dreame"
+    ],
+    "text": "For Home care Hand vacuum cleaners we have Xiaomi, Dyson, Dreame brands."
+  },
+  {
+    "category": "Home care",
+    "subcategory": "Robot vacuum cleaners",
+    "brands": [
+      "Xiaomi",
+      "Roborock",
+      "Dreame"
+    ],
+    "text": "For Home care Robot vacuum cleaners we have Xiaomi, Roborock, Dreame brands."
+  },
+  {
+    "category": "Home care",
+    "subcategory": "Air humidifier",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Home care Air humidifier we have Xiaomi brands."
+  },
+  {
+    "category": "Tablet accessories",
+    "subcategory": "Micro SD memory cards",
+    "brands": [
+      "Samsung",
+      "SanDisk"
+    ],
+    "text": "For Tablet accessories Micro SD memory cards we have Samsung, SanDisk brands."
+  },
+  {
+    "category": "Tablet accessories",
+    "subcategory": "Tablet Stand",
+    "brands": [
+      "Baseus "
+    ],
+    "text": "For Tablet accessories Tablet Stand we have Baseus  brands."
+  },
+  {
+    "category": "Tablet accessories",
+    "subcategory": "Connectors",
+    "brands": [
+      "Apple",
+      "Samsung",
+      "Hoco",
+      "Baseus ",
+      "Ugreen"
+    ],
+    "text": "For Tablet accessories Connectors we have Apple, Samsung, Hoco, Baseus , Ugreen brands."
+  },
+  {
+    "category": "Tablet accessories",
+    "subcategory": "Tablet keyboards",
+    "brands": [
+      "Apple",
+      "Xiaomi",
+      "Baseus "
+    ],
+    "text": "For Tablet accessories Tablet keyboards we have Apple, Xiaomi, Baseus  brands."
+  },
+  {
+    "category": "Tablet accessories",
+    "subcategory": "Smart pen accessories",
+    "brands": [
+      "Spigen"
+    ],
+    "text": "For Tablet accessories Smart pen accessories we have Spigen brands."
+  },
+  {
+    "category": "Tablet accessories",
+    "subcategory": "Tablet cases",
+    "brands": [
+      "Apple",
+      "Baseus ",
+      "Uniq",
+      "Ovose",
+      "Spigen",
+      "BOOX"
+    ],
+    "text": "For Tablet accessories Tablet cases we have Apple, Baseus , Uniq, Ovose, Spigen, BOOX brands."
+  },
+  {
+    "category": "Tablet accessories",
+    "subcategory": "USB Cables",
+    "brands": [
+      "Apple",
+      "Samsung",
+      "Xiaomi",
+      "Anker",
+      "Hoco",
+      "Baseus ",
+      "Spigen",
+      "Belkin",
+      "Ugreen"
+    ],
+    "text": "For Tablet accessories USB Cables we have Apple, Samsung, Xiaomi, Anker, Hoco, Baseus , Spigen, Belkin, Ugreen brands."
+  },
+  {
+    "category": "Tablet accessories",
+    "subcategory": "Charger Adapters",
+    "brands": [
+      "Apple",
+      "OnePlus",
+      "Samsung",
+      "Xiaomi",
+      "Google",
+      "Havit",
+      "Anker",
+      "Hoco",
+      "Baseus ",
+      "Spigen",
+      "Belkin",
+      "Ugreen"
+    ],
+    "text": "For Tablet accessories Charger Adapters we have Apple, OnePlus, Samsung, Xiaomi, Google, Havit, Anker, Hoco, Baseus , Spigen, Belkin, Ugreen brands."
+  },
+  {
+    "category": "Tablet accessories",
+    "subcategory": "OTG flash memory",
+    "brands": [
+      "HP",
+      "SanDisk"
+    ],
+    "text": "For Tablet accessories OTG flash memory we have HP, SanDisk brands."
+  },
+  {
+    "category": "Tablet accessories",
+    "subcategory": "PowerBanks",
+    "brands": [
+      "Lenovo",
+      "Xiaomi",
+      "Anker",
+      "EcoFlow",
+      "Ugreen"
+    ],
+    "text": "For Tablet accessories PowerBanks we have Lenovo, Xiaomi, Anker, EcoFlow, Ugreen brands."
+  },
+  {
+    "category": "Tablet accessories",
+    "subcategory": "Tablet Screen Protectors",
+    "brands": [
+      "Glass Pro+",
+      "Spigen",
+      "GlassPro",
+      "PanzerGlass"
+    ],
+    "text": "For Tablet accessories Tablet Screen Protectors we have Glass Pro+, Spigen, GlassPro, PanzerGlass brands."
+  },
+  {
+    "category": "Tablet accessories",
+    "subcategory": "Smart Pen",
+    "brands": [
+      "Apple",
+      "Xiaomi",
+      "Spigen"
+    ],
+    "text": "For Tablet accessories Smart Pen we have Apple, Xiaomi, Spigen brands."
+  },
+  {
+    "category": "Living room",
+    "subcategory": "Media Players",
+    "brands": [
+      "Apple",
+      "Xiaomi",
+      "Amazon"
+    ],
+    "text": "For Living room Media Players we have Apple, Xiaomi, Amazon brands."
+  },
+  {
+    "category": "Living room",
+    "subcategory": "TV's",
+    "brands": [
+      "Samsung",
+      "Xiaomi"
+    ],
+    "text": "For Living room TV's we have Samsung, Xiaomi brands."
+  },
+  {
+    "category": "Living room",
+    "subcategory": "Wi-Fi Routers",
+    "brands": [
+      "Xiaomi",
+      "Asus",
+      "Tp-Link",
+      "Ubiquiti"
+    ],
+    "text": "For Living room Wi-Fi Routers we have Xiaomi, Asus, Tp-Link, Ubiquiti brands."
+  },
+  {
+    "category": "Living room",
+    "subcategory": "Light",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Living room Light we have Xiaomi brands."
+  },
+  {
+    "category": "Living room",
+    "subcategory": "Air purifier",
+    "brands": [
+      "Xiaomi",
+      "Dyson"
+    ],
+    "text": "For Living room Air purifier we have Xiaomi, Dyson brands."
+  },
+  {
+    "category": "Living room",
+    "subcategory": "Smart Assistants",
+    "brands": [
+      "Apple",
+      "Havit",
+      "Amazon"
+    ],
+    "text": "For Living room Smart Assistants we have Apple, Havit, Amazon brands."
+  },
+  {
+    "category": "Living room",
+    "subcategory": "Projectors",
+    "brands": [
+      "Samsung",
+      "Xiaomi",
+      "Anker",
+      "Baseus ",
+      "Wanbo",
+      "Allscreen "
+    ],
+    "text": "For Living room Projectors we have Samsung, Xiaomi, Anker, Baseus , Wanbo, Allscreen  brands."
+  },
+  {
+    "category": "Car Accessories",
+    "subcategory": "Car bin",
+    "brands": [
+      "Baseus "
+    ],
+    "text": "For Car Accessories Car bin we have Baseus  brands."
+  },
+  {
+    "category": "Car Accessories",
+    "subcategory": "Car Chargers",
+    "brands": [
+      "Samsung",
+      "Xiaomi",
+      "Havit",
+      "Anker",
+      "Hoco",
+      "Baseus ",
+      "Uniq",
+      "Spigen",
+      "Belkin",
+      "Ugreen"
+    ],
+    "text": "For Car Accessories Car Chargers we have Samsung, Xiaomi, Havit, Anker, Hoco, Baseus , Uniq, Spigen, Belkin, Ugreen brands."
+  },
+  {
+    "category": "Car Accessories",
+    "subcategory": "Car Accessories",
+    "brands": [
+      "Xiaomi",
+      "Spigen"
+    ],
+    "text": "For Car Accessories Car Accessories we have Xiaomi, Spigen brands."
+  },
+  {
+    "category": "Car Accessories",
+    "subcategory": "Car flavorings",
+    "brands": [
+      "Baseus "
+    ],
+    "text": "For Car Accessories Car flavorings we have Baseus  brands."
+  },
+  {
+    "category": "Car Accessories",
+    "subcategory": "Number card",
+    "brands": [
+      "Baseus ",
+      "Ugreen"
+    ],
+    "text": "For Car Accessories Number card we have Baseus , Ugreen brands."
+  },
+  {
+    "category": "Car Accessories",
+    "subcategory": "Car Holders",
+    "brands": [
+      "Xiaomi",
+      "Havit",
+      "Baseus ",
+      "Segway",
+      "Uniq",
+      "Spigen",
+      "Belkin",
+      "Ugreen"
+    ],
+    "text": "For Car Accessories Car Holders we have Xiaomi, Havit, Baseus , Segway, Uniq, Spigen, Belkin, Ugreen brands."
+  },
+  {
+    "category": "Tablets",
+    "brands": [
+      "Apple",
+      "Honor",
+      "Lenovo",
+      "OnePlus",
+      "Samsung",
+      "Xiaomi"
+    ],
+    "text": "For Tablets we have Apple, Honor, Lenovo, OnePlus, Samsung, Xiaomi brands."
+  },
+  {
+    "category": "Memory & Data carriers",
+    "subcategory": "Portable HDD",
+    "brands": [
+      "Wester Digital",
+      "Seagate",
+      "Toshiba"
+    ],
+    "text": "For Memory & Data carriers Portable HDD we have Wester Digital, Seagate, Toshiba brands."
+  },
+  {
+    "category": "Memory & Data carriers",
+    "subcategory": "Flash Memories",
+    "brands": [
+      "Samsung",
+      "HP",
+      "SanDisk"
+    ],
+    "text": "For Memory & Data carriers Flash Memories we have Samsung, HP, SanDisk brands."
+  },
+  {
+    "category": "Memory & Data carriers",
+    "subcategory": "Portable SSD",
+    "brands": [
+      "Lenovo",
+      "Samsung",
+      "SanDisk"
+    ],
+    "text": "For Memory & Data carriers Portable SSD we have Lenovo, Samsung, SanDisk brands."
+  },
+  {
+    "category": "Memory & Data carriers",
+    "subcategory": "NAS Devices",
+    "brands": [
+      "Ugreen"
+    ],
+    "text": "For Memory & Data carriers NAS Devices we have Ugreen brands."
+  },
+  {
+    "category": "Memory & Data carriers",
+    "subcategory": "Memory Cards",
+    "brands": [
+      "Samsung",
+      "SanDisk"
+    ],
+    "text": "For Memory & Data carriers Memory Cards we have Samsung, SanDisk brands."
+  },
+  {
+    "category": "Memory & Data carriers",
+    "subcategory": "Internal SSD",
+    "brands": [
+      "Samsung",
+      "Kingston",
+      "WD"
+    ],
+    "text": "For Memory & Data carriers Internal SSD we have Samsung, Kingston, WD brands."
+  },
+  {
+    "category": "Audio system",
+    "subcategory": "Polaroid",
+    "brands": [
+      "Polaroid"
+    ],
+    "text": "For Audio system Polaroid we have Polaroid brands."
+  },
+  {
+    "category": "Audio system",
+    "subcategory": "Razer",
+    "brands": [
+      "Razer"
+    ],
+    "text": "For Audio system Razer we have Razer brands."
+  },
+  {
+    "category": "Audio system",
+    "subcategory": "Realme",
+    "brands": [
+      "Realme"
+    ],
+    "text": "For Audio system Realme we have Realme brands."
+  },
+  {
+    "category": "Audio system",
+    "subcategory": "Beats",
+    "brands": [
+      "Beats"
+    ],
+    "text": "For Audio system Beats we have Beats brands."
+  },
+  {
+    "category": "Audio system",
+    "subcategory": "Apple",
+    "brands": [
+      "Apple"
+    ],
+    "text": "For Audio system Apple we have Apple brands."
+  },
+  {
+    "category": "Audio system",
+    "subcategory": "Xiaomi",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Audio system Xiaomi we have Xiaomi brands."
+  },
+  {
+    "category": "Audio system",
+    "subcategory": "Samsung",
+    "brands": [
+      "Samsung"
+    ],
+    "text": "For Audio system Samsung we have Samsung brands."
+  },
+  {
+    "category": "Audio system",
+    "subcategory": "Bose",
+    "brands": [
+      "Bose"
+    ],
+    "text": "For Audio system Bose we have Bose brands."
+  },
+  {
+    "category": "Audio system",
+    "subcategory": "Marshall",
+    "brands": [
+      "Marshall"
+    ],
+    "text": "For Audio system Marshall we have Marshall brands."
+  },
+  {
+    "category": "Audio system",
+    "subcategory": "JBL",
+    "brands": [
+      "JBL ",
+      "JBL",
+      "Lenco"
+    ],
+    "text": "For Audio system JBL we have JBL , JBL, Lenco brands."
+  },
+  {
+    "category": "Audio system",
+    "subcategory": "Baseus",
+    "brands": [
+      "Baseus "
+    ],
+    "text": "For Audio system Baseus we have Baseus  brands."
+  },
+  {
+    "category": "Audio system",
+    "subcategory": "Sony",
+    "brands": [
+      "Sony"
+    ],
+    "text": "For Audio system Sony we have Sony brands."
+  },
+  {
+    "category": "Smart Glasses",
+    "brands": [
+      "Oakley",
+      "Ray-Ban"
+    ],
+    "text": "For Smart Glasses we have Oakley, Ray-Ban brands."
+  },
+  {
+    "category": "Smart watch accessories",
+    "subcategory": "Smart watch straps",
+    "brands": [
+      "iGuard",
+      "Green Lion",
+      "Levelo",
+      "Uniq"
+    ],
+    "text": "For Smart watch accessories Smart watch straps we have iGuard, Green Lion, Levelo, Uniq brands."
+  },
+  {
+    "category": "Smart watch accessories",
+    "subcategory": "Smart watch screen protectors",
+    "brands": [
+      "Glass Pro+",
+      "Uniq",
+      "GlassPro",
+      "PanzerGlass"
+    ],
+    "text": "For Smart watch accessories Smart watch screen protectors we have Glass Pro+, Uniq, GlassPro, PanzerGlass brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Laptop keyboard protectors",
+    "brands": [
+      "Crystal Guard"
+    ],
+    "text": "For Laptop accessories Laptop keyboard protectors we have Crystal Guard brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Internal SSD",
+    "brands": [
+      "Samsung",
+      "Kingston",
+      "WD"
+    ],
+    "text": "For Laptop accessories Internal SSD we have Samsung, Kingston, WD brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Portable HDD",
+    "brands": [
+      "Wester Digital",
+      "Seagate",
+      "Toshiba"
+    ],
+    "text": "For Laptop accessories Portable HDD we have Wester Digital, Seagate, Toshiba brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Streaming Microphones",
+    "brands": [
+      "Havit",
+      "HyperX ",
+      "Razer",
+      "JBL",
+      "BOYA",
+      "Godox"
+    ],
+    "text": "For Laptop accessories Streaming Microphones we have Havit, HyperX , Razer, JBL, BOYA, Godox brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Power extenders",
+    "brands": [
+      "Defender"
+    ],
+    "text": "For Laptop accessories Power extenders we have Defender brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Laptop charger",
+    "brands": [
+      "Apple",
+      "Lenovo",
+      "Asus",
+      "HP",
+      "SkyTech"
+    ],
+    "text": "For Laptop accessories Laptop charger we have Apple, Lenovo, Asus, HP, SkyTech brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Web cameras",
+    "brands": [
+      "Lenovo",
+      "Razer",
+      "Logitech",
+      "HP"
+    ],
+    "text": "For Laptop accessories Web cameras we have Lenovo, Razer, Logitech, HP brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Laptop bags",
+    "brands": [
+      "Lenovo",
+      "Xiaomi",
+      "Asus",
+      "Acer",
+      "HP",
+      "Dell",
+      "Tomtoc",
+      "Spigen",
+      "Rivacase",
+      "Ugreen"
+    ],
+    "text": "For Laptop accessories Laptop bags we have Lenovo, Xiaomi, Asus, Acer, HP, Dell, Tomtoc, Spigen, Rivacase, Ugreen brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Mouse",
+    "brands": [
+      "Apple",
+      "Lenovo",
+      "Xiaomi",
+      "Microsoft",
+      "Asus",
+      "Havit",
+      "HyperX ",
+      "Razer",
+      "Acer",
+      "Logitech",
+      "Defender",
+      "HP",
+      "Baseus ",
+      "Dell",
+      "SteelSeries",
+      "Ugreen"
+    ],
+    "text": "For Laptop accessories Mouse we have Apple, Lenovo, Xiaomi, Microsoft, Asus, Havit, HyperX , Razer, Acer, Logitech, Defender, HP, Baseus , Dell, SteelSeries, Ugreen brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Mouse pads",
+    "brands": [
+      "Havit",
+      "HyperX ",
+      "Razer"
+    ],
+    "text": "For Laptop accessories Mouse pads we have Havit, HyperX , Razer brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Display cleaners",
+    "brands": [
+      "2E"
+    ],
+    "text": "For Laptop accessories Display cleaners we have 2E brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Keyboards",
+    "brands": [
+      "Apple",
+      "Lenovo",
+      "Xiaomi",
+      "Asus",
+      "Havit",
+      "HyperX ",
+      "Razer",
+      "Logitech",
+      "HP",
+      "Ugreen"
+    ],
+    "text": "For Laptop accessories Keyboards we have Apple, Lenovo, Xiaomi, Asus, Havit, HyperX , Razer, Logitech, HP, Ugreen brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Cooling pads",
+    "brands": [
+      "Lenovo",
+      "Havit"
+    ],
+    "text": "For Laptop accessories Cooling pads we have Lenovo, Havit brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Laptop cases",
+    "brands": [
+      "Uniq"
+    ],
+    "text": "For Laptop accessories Laptop cases we have Uniq brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Dock Station",
+    "brands": [
+      "Uniq"
+    ],
+    "text": "For Laptop accessories Dock Station we have Uniq brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Laptop Screen Protectors",
+    "brands": [
+      "Glass Pro+"
+    ],
+    "text": "For Laptop accessories Laptop Screen Protectors we have Glass Pro+ brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Wi-Fi routers",
+    "brands": [
+      "Xiaomi",
+      "Asus",
+      "Tp-Link",
+      "Ubiquiti"
+    ],
+    "text": "For Laptop accessories Wi-Fi routers we have Xiaomi, Asus, Tp-Link, Ubiquiti brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Flash drives",
+    "brands": [
+      "Samsung",
+      "HP",
+      "SanDisk"
+    ],
+    "text": "For Laptop accessories Flash drives we have Samsung, HP, SanDisk brands."
+  },
+  {
+    "category": "Laptop accessories",
+    "subcategory": "Portable SSD",
+    "brands": [
+      "Lenovo",
+      "Samsung",
+      "SanDisk"
+    ],
+    "text": "For Laptop accessories Portable SSD we have Lenovo, Samsung, SanDisk brands."
+  },
+  {
+    "category": "Smart Devices",
+    "subcategory": "Smart assistants",
+    "brands": [
+      "Apple",
+      "Amazon"
+    ],
+    "text": "For Smart Devices Smart assistants we have Apple, Amazon brands."
+  },
+  {
+    "category": "Smart Devices",
+    "subcategory": "Smart lamps",
+    "brands": [
+      "Xiaomi",
+      "Aqara"
+    ],
+    "text": "For Smart Devices Smart lamps we have Xiaomi, Aqara brands."
+  },
+  {
+    "category": "Smart Devices",
+    "subcategory": "Smart switches",
+    "brands": [
+      "Xiaomi",
+      "Havit",
+      "Amazon",
+      "Ugreen",
+      "Aqara"
+    ],
+    "text": "For Smart Devices Smart switches we have Xiaomi, Havit, Amazon, Ugreen, Aqara brands."
+  },
+  {
+    "category": "Smart Devices",
+    "subcategory": "Motion sensors",
+    "brands": [
+      "Xiaomi",
+      "Aqara"
+    ],
+    "text": "For Smart Devices Motion sensors we have Xiaomi, Aqara brands."
+  },
+  {
+    "category": "Smart Devices",
+    "subcategory": "Smart heater",
+    "brands": [
+      "Dyson"
+    ],
+    "text": "For Smart Devices Smart heater we have Dyson brands."
+  },
+  {
+    "category": "Smart Devices",
+    "subcategory": "Eco Home",
+    "brands": [
+      "Xiaomi",
+      "Amazon",
+      "Huo Huo"
+    ],
+    "text": "For Smart Devices Eco Home we have Xiaomi, Amazon, Huo Huo brands."
+  },
+  {
+    "category": "Smart Devices",
+    "subcategory": "TV Box",
+    "brands": [
+      "Apple",
+      "Xiaomi",
+      "Amazon"
+    ],
+    "text": "For Smart Devices TV Box we have Apple, Xiaomi, Amazon brands."
+  },
+  {
+    "category": "For Pets",
+    "subcategory": "Food and Water Dispenser Accessories",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For For Pets Food and Water Dispenser Accessories we have Xiaomi brands."
+  },
+  {
+    "category": "For Pets",
+    "subcategory": "Water dispenser",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For For Pets Water dispenser we have Xiaomi brands."
+  },
+  {
+    "category": "For Pets",
+    "subcategory": "Food dispenser",
+    "brands": [
+      "Xiaomi",
+      "Aqara"
+    ],
+    "text": "For For Pets Food dispenser we have Xiaomi, Aqara brands."
+  },
+  {
+    "category": "Ebook",
+    "brands": [
+      "Amazon",
+      "BOOX"
+    ],
+    "text": "For Ebook we have Amazon, BOOX brands."
+  },
+  {
+    "category": "Photo, video accessories",
+    "subcategory": "Camera Bags",
+    "brands": [
+      "Canon",
+      "Rivacase"
+    ],
+    "text": "For Photo, video accessories Camera Bags we have Canon, Rivacase brands."
+  },
+  {
+    "category": "Photo, video accessories",
+    "subcategory": "Tripods",
+    "brands": [
+      "Havit",
+      "BOYA",
+      "Power Tripod",
+      "Godox"
+    ],
+    "text": "For Photo, video accessories Tripods we have Havit, BOYA, Power Tripod, Godox brands."
+  },
+  {
+    "category": "Photo, video accessories",
+    "subcategory": "Lenses",
+    "brands": [
+      "Sony",
+      "Canon"
+    ],
+    "text": "For Photo, video accessories Lenses we have Sony, Canon brands."
+  },
+  {
+    "category": "Photo, video accessories",
+    "subcategory": "Memory cards",
+    "brands": [
+      "Samsung",
+      "SanDisk"
+    ],
+    "text": "For Photo, video accessories Memory cards we have Samsung, SanDisk brands."
+  },
+  {
+    "category": "Photo, video accessories",
+    "subcategory": "Gimbal stabilizer",
+    "brands": [
+      "DJI",
+      "GoPro",
+      "Insta360",
+      "Hohem"
+    ],
+    "text": "For Photo, video accessories Gimbal stabilizer we have DJI, GoPro, Insta360, Hohem brands."
+  },
+  {
+    "category": "Photo, video accessories",
+    "subcategory": "Speedlite flashes",
+    "brands": [
+      "Canon"
+    ],
+    "text": "For Photo, video accessories Speedlite flashes we have Canon brands."
+  },
+  {
+    "category": "Photo, video accessories",
+    "subcategory": "Camera Stabilizers",
+    "brands": [
+      "DJI",
+      "GoPro",
+      "Hohem"
+    ],
+    "text": "For Photo, video accessories Camera Stabilizers we have DJI, GoPro, Hohem brands."
+  },
+  {
+    "category": "Photo, video accessories",
+    "subcategory": "Smartphone Stabilizers",
+    "brands": [
+      "DJI",
+      "Insta360",
+      "Hohem"
+    ],
+    "text": "For Photo, video accessories Smartphone Stabilizers we have DJI, Insta360, Hohem brands."
+  },
+  {
+    "category": "Photo, video accessories",
+    "subcategory": "Wireless Microphones",
+    "brands": [
+      "BOYA",
+      "DJI",
+      "Rode",
+      "Sennheiser",
+      "Godox"
+    ],
+    "text": "For Photo, video accessories Wireless Microphones we have BOYA, DJI, Rode, Sennheiser, Godox brands."
+  },
+  {
+    "category": "Photo, video accessories",
+    "subcategory": "Camera microphones",
+    "brands": [
+      "Hoco",
+      "BOYA",
+      "Rode",
+      "Godox"
+    ],
+    "text": "For Photo, video accessories Camera microphones we have Hoco, BOYA, Rode, Godox brands."
+  },
+  {
+    "category": "Headphones & Headsets",
+    "subcategory": "Headphones - Gaming",
+    "brands": [
+      "Havit",
+      "HyperX ",
+      "JBL ",
+      "Razer",
+      "JBL",
+      "Logitech"
+    ],
+    "text": "For Headphones & Headsets Headphones - Gaming we have Havit, HyperX , JBL , Razer, JBL, Logitech brands."
+  },
+  {
+    "category": "Headphones & Headsets",
+    "subcategory": "Call center headsets",
+    "brands": [
+      "Logitech"
+    ],
+    "text": "For Headphones & Headsets Call center headsets we have Logitech brands."
+  },
+  {
+    "category": "Headphones & Headsets",
+    "subcategory": "Earphones",
+    "brands": [
+      "Apple",
+      "Samsung",
+      "Xiaomi",
+      "Baseus "
+    ],
+    "text": "For Headphones & Headsets Earphones we have Apple, Samsung, Xiaomi, Baseus  brands."
+  },
+  {
+    "category": "Headphones & Headsets",
+    "subcategory": "Headphones",
+    "brands": [
+      "Apple",
+      "Sony",
+      "Realme",
+      "Nothing",
+      "JBL ",
+      "JBL",
+      "Bose",
+      "Marshall",
+      "Beats",
+      "Sonos",
+      "Bowers & Wilkins",
+      "Bang & Olufsen"
+    ],
+    "text": "For Headphones & Headsets Headphones we have Apple, Sony, Realme, Nothing, JBL , JBL, Bose, Marshall, Beats, Sonos, Bowers & Wilkins, Bang & Olufsen brands."
+  },
+  {
+    "category": "Headphones & Headsets",
+    "subcategory": "Wireless Earphones",
+    "brands": [
+      "OnePlus",
+      "Sony",
+      "Realme",
+      "Nothing",
+      "JBL",
+      "Bose"
+    ],
+    "text": "For Headphones & Headsets Wireless Earphones we have OnePlus, Sony, Realme, Nothing, JBL, Bose brands."
+  },
+  {
+    "category": "Headphones & Headsets",
+    "subcategory": "Children's headphones",
+    "brands": [
+      "JBL"
+    ],
+    "text": "For Headphones & Headsets Children's headphones we have JBL brands."
+  },
+  {
+    "category": "Headphones & Headsets",
+    "subcategory": "Headsets Buds",
+    "brands": [
+      "Apple",
+      "OnePlus",
+      "Samsung",
+      "Sony",
+      "Xiaomi",
+      "Google",
+      "Realme",
+      "Nothing",
+      "JBL",
+      "Marshall",
+      "Beats",
+      "Motorola"
+    ],
+    "text": "For Headphones & Headsets Headsets Buds we have Apple, OnePlus, Samsung, Sony, Xiaomi, Google, Realme, Nothing, JBL, Marshall, Beats, Motorola brands."
+  },
+  {
+    "category": "Xbox",
+    "subcategory": "XBOX controllers",
+    "brands": [
+      "Microsoft"
+    ],
+    "text": "For Xbox XBOX controllers we have Microsoft brands."
+  },
+  {
+    "category": "Xbox",
+    "subcategory": "Xbox games",
+    "brands": [
+      "Microsoft"
+    ],
+    "text": "For Xbox Xbox games we have Microsoft brands."
+  },
+  {
+    "category": "Xbox",
+    "subcategory": "Xbox accessories",
+    "brands": [
+      "Havit",
+      "Logitech",
+      "Thrustmaster",
+      "Dobe"
+    ],
+    "text": "For Xbox Xbox accessories we have Havit, Logitech, Thrustmaster, Dobe brands."
+  },
+  {
+    "category": "Xbox",
+    "subcategory": "Xbox",
+    "brands": [
+      "Microsoft"
+    ],
+    "text": "For Xbox Xbox we have Microsoft brands."
+  },
+  {
+    "category": "Skin-X",
+    "brands": [
+      "SkinX"
+    ],
+    "text": "For Skin-X we have SkinX brands."
+  },
+  {
+    "category": "Mobile Phones",
+    "brands": [
+      "Apple",
+      "Google",
+      "HMD",
+      "Motorola",
+      "Nokia",
+      "Nothing",
+      "OnePlus",
+      "Oppo",
+      "Realme",
+      "Samsung",
+      "Xiaomi"
+    ],
+    "text": "For Mobile Phones we have Apple, Google, HMD, Motorola, Nokia, Nothing, OnePlus, Oppo, Realme, Samsung, Xiaomi brands."
+  },
+  {
+    "category": "Acustic systems",
+    "subcategory": "Studio speakers",
+    "brands": [
+      "Edifier",
+      "Havit"
+    ],
+    "text": "For Acustic systems Studio speakers we have Edifier, Havit brands."
+  },
+  {
+    "category": "Acustic systems",
+    "subcategory": "Speakers",
+    "brands": [
+      "Sony",
+      "Xiaomi",
+      "Edifier",
+      "Havit",
+      "JBL ",
+      "Razer",
+      "JBL",
+      "Marshall",
+      "Polaroid",
+      "Harman",
+      "Lenco",
+      "Ikarao"
+    ],
+    "text": "For Acustic systems Speakers we have Sony, Xiaomi, Edifier, Havit, JBL , Razer, JBL, Marshall, Polaroid, Harman, Lenco, Ikarao brands."
+  },
+  {
+    "category": "Acustic systems",
+    "subcategory": "Sound Bars",
+    "brands": [
+      "Samsung",
+      "Xiaomi"
+    ],
+    "text": "For Acustic systems Sound Bars we have Samsung, Xiaomi brands."
+  },
+  {
+    "category": "Acustic systems",
+    "subcategory": "Turntable accessories",
+    "brands": [
+      "Audio-Technica",
+      "Crosley"
+    ],
+    "text": "For Acustic systems Turntable accessories we have Audio-Technica, Crosley brands."
+  },
+  {
+    "category": "Acustic systems",
+    "subcategory": "PC Speakers",
+    "brands": [
+      "Xiaomi",
+      "Edifier",
+      "Havit",
+      "Razer"
+    ],
+    "text": "For Acustic systems PC Speakers we have Xiaomi, Edifier, Havit, Razer brands."
+  },
+  {
+    "category": "Acustic systems",
+    "subcategory": "Home speakers",
+    "brands": [
+      "Sony",
+      "Xiaomi",
+      "Edifier",
+      "Havit",
+      "JBL",
+      "Marshall",
+      "Polaroid",
+      "Harman",
+      "Lenco",
+      "Ikarao"
+    ],
+    "text": "For Acustic systems Home speakers we have Sony, Xiaomi, Edifier, Havit, JBL, Marshall, Polaroid, Harman, Lenco, Ikarao brands."
+  },
+  {
+    "category": "Acustic systems",
+    "subcategory": "Turntables",
+    "brands": [
+      "JBL",
+      "Crosley",
+      "Lenco"
+    ],
+    "text": "For Acustic systems Turntables we have JBL, Crosley, Lenco brands."
+  },
+  {
+    "category": "Acustic systems",
+    "subcategory": "Smart Assistent",
+    "brands": [
+      "Apple",
+      "Amazon"
+    ],
+    "text": "For Acustic systems Smart Assistent we have Apple, Amazon brands."
+  },
+  {
+    "category": "Acustic systems",
+    "subcategory": "Portable Bluetooth speakers",
+    "brands": [
+      "Sony",
+      "Xiaomi",
+      "Edifier",
+      "Havit",
+      "JBL ",
+      "JBL",
+      "Marshall",
+      "Polaroid",
+      "Harman",
+      "Ikarao"
+    ],
+    "text": "For Acustic systems Portable Bluetooth speakers we have Sony, Xiaomi, Edifier, Havit, JBL , JBL, Marshall, Polaroid, Harman, Ikarao brands."
+  },
+  {
+    "category": "Acustic systems",
+    "subcategory": "Sports Bluetooth speakers",
+    "brands": [
+      "Sony",
+      "Xiaomi",
+      "Havit",
+      "JBL",
+      "Marshall",
+      "Polaroid"
+    ],
+    "text": "For Acustic systems Sports Bluetooth speakers we have Sony, Xiaomi, Havit, JBL, Marshall, Polaroid brands."
+  },
+  {
+    "category": "Smart keyboard and pen",
+    "brands": [
+      "Apple",
+      "Baseus ",
+      "Spigen",
+      "Xiaomi"
+    ],
+    "text": "For Smart keyboard and pen we have Apple, Baseus , Spigen, Xiaomi brands."
+  },
+  {
+    "category": " Headphones - Buds",
+    "subcategory": "Airpods cases",
+    "brands": [
+      "Green ",
+      "Uniq",
+      "Spigen"
+    ],
+    "text": "For  Headphones - Buds Airpods cases we have Green , Uniq, Spigen brands."
+  },
+  {
+    "category": " Headphones - Buds",
+    "subcategory": "Sony Buds",
+    "brands": [
+      "Sony"
+    ],
+    "text": "For  Headphones - Buds Sony Buds we have Sony brands."
+  },
+  {
+    "category": " Headphones - Buds",
+    "subcategory": "Apple Airpods",
+    "brands": [
+      "Apple"
+    ],
+    "text": "For  Headphones - Buds Apple Airpods we have Apple brands."
+  },
+  {
+    "category": " Headphones - Buds",
+    "subcategory": "Accessories for Buds",
+    "brands": [
+      "2E",
+      "Baseus "
+    ],
+    "text": "For  Headphones - Buds Accessories for Buds we have 2E, Baseus  brands."
+  },
+  {
+    "category": " Headphones - Buds",
+    "subcategory": "Realme Buds",
+    "brands": [
+      "Realme"
+    ],
+    "text": "For  Headphones - Buds Realme Buds we have Realme brands."
+  },
+  {
+    "category": " Headphones - Buds",
+    "subcategory": "Xiaomi Buds",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For  Headphones - Buds Xiaomi Buds we have Xiaomi brands."
+  },
+  {
+    "category": " Headphones - Buds",
+    "subcategory": "Galaxy Buds",
+    "brands": [
+      "Samsung"
+    ],
+    "text": "For  Headphones - Buds Galaxy Buds we have Samsung brands."
+  },
+  {
+    "category": " Headphones - Buds",
+    "subcategory": "OnePlus Buds",
+    "brands": [
+      "OnePlus"
+    ],
+    "text": "For  Headphones - Buds OnePlus Buds we have OnePlus brands."
+  },
+  {
+    "category": " Headphones - Buds",
+    "subcategory": "Nothing Buds",
+    "brands": [
+      "Nothing"
+    ],
+    "text": "For  Headphones - Buds Nothing Buds we have Nothing brands."
+  },
+  {
+    "category": " Headphones - Buds",
+    "subcategory": "JBL Buds",
+    "brands": [
+      "JBL"
+    ],
+    "text": "For  Headphones - Buds JBL Buds we have JBL brands."
+  },
+  {
+    "category": " Headphones - Buds",
+    "subcategory": "Marshall Buds",
+    "brands": [
+      "Marshall"
+    ],
+    "text": "For  Headphones - Buds Marshall Buds we have Marshall brands."
+  },
+  {
+    "category": " Headphones - Buds",
+    "subcategory": "Google Buds",
+    "brands": [
+      "Google"
+    ],
+    "text": "For  Headphones - Buds Google Buds we have Google brands."
+  },
+  {
+    "category": " Headphones - Buds",
+    "subcategory": "Motorola Buds",
+    "brands": [
+      "Motorola"
+    ],
+    "text": "For  Headphones - Buds Motorola Buds we have Motorola brands."
+  },
+  {
+    "category": " Headphones - Buds",
+    "subcategory": " Headphones - Buds",
+    "brands": [
+      "Marshall",
+      "Beats"
+    ],
+    "text": "For  Headphones - Buds  Headphones - Buds we have Marshall, Beats brands."
+  },
+  {
+    "category": "Projectors",
+    "subcategory": "Laser projectors",
+    "brands": [
+      "Samsung",
+      "Xiaomi",
+      "Anker",
+      "Wanbo"
+    ],
+    "text": "For Projectors Laser projectors we have Samsung, Xiaomi, Anker, Wanbo brands."
+  },
+  {
+    "category": "Projectors",
+    "subcategory": "Projector bags",
+    "brands": [
+      "Xiaomi",
+      "Wanbo"
+    ],
+    "text": "For Projectors Projector bags we have Xiaomi, Wanbo brands."
+  },
+  {
+    "category": "Projectors",
+    "subcategory": "Presenters",
+    "brands": [
+      "Baseus "
+    ],
+    "text": "For Projectors Presenters we have Baseus  brands."
+  },
+  {
+    "category": "Projectors",
+    "subcategory": "Multimedia projectors",
+    "brands": [
+      "Wanbo"
+    ],
+    "text": "For Projectors Multimedia projectors we have Wanbo brands."
+  },
+  {
+    "category": "Microphone",
+    "subcategory": "Streaming microphone clip",
+    "brands": [
+      "BOYA"
+    ],
+    "text": "For Microphone Streaming microphone clip we have BOYA brands."
+  },
+  {
+    "category": "Microphone",
+    "subcategory": "Camera microphones",
+    "brands": [
+      "Hoco",
+      "BOYA",
+      "Rode",
+      "Godox"
+    ],
+    "text": "For Microphone Camera microphones we have Hoco, BOYA, Rode, Godox brands."
+  },
+  {
+    "category": "Microphone",
+    "subcategory": "Lapel microphone",
+    "brands": [
+      "BOYA",
+      "Godox"
+    ],
+    "text": "For Microphone Lapel microphone we have BOYA, Godox brands."
+  },
+  {
+    "category": "Microphone",
+    "subcategory": "Microphone accessory",
+    "brands": [
+      "BOYA"
+    ],
+    "text": "For Microphone Microphone accessory we have BOYA brands."
+  },
+  {
+    "category": "Microphone",
+    "subcategory": "Wireless microphone",
+    "brands": [
+      "BOYA",
+      "DJI",
+      "Rode",
+      "Sennheiser",
+      "Godox"
+    ],
+    "text": "For Microphone Wireless microphone we have BOYA, DJI, Rode, Sennheiser, Godox brands."
+  },
+  {
+    "category": "Gaming devices",
+    "brands": [
+      "Asus",
+      "HP",
+      "Lenovo",
+      "MSI"
+    ],
+    "text": "For Gaming devices we have Asus, HP, Lenovo, MSI brands."
+  },
+  {
+    "category": "Monitors",
+    "brands": [
+      "Acer",
+      "Dell",
+      "Lenovo",
+      "Xiaomi"
+    ],
+    "text": "For Monitors we have Acer, Dell, Lenovo, Xiaomi brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "Charger Adapters",
+    "brands": [
+      "Apple",
+      "OnePlus",
+      "Samsung",
+      "Xiaomi",
+      "Google",
+      "Havit",
+      "Anker",
+      "Hoco",
+      "Baseus ",
+      "Spigen",
+      "Belkin",
+      "Ugreen"
+    ],
+    "text": "For Mobile Accessories Charger Adapters we have Apple, OnePlus, Samsung, Xiaomi, Google, Havit, Anker, Hoco, Baseus , Spigen, Belkin, Ugreen brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "Mobile Phone Cases",
+    "brands": [
+      "Apple",
+      "Samsung",
+      "Ananda ",
+      "Karl ",
+      "Guess ",
+      "Levelo",
+      "Uniq",
+      "Ovose",
+      "Spigen",
+      "GreenLion",
+      "PanzerGlass",
+      "BMW",
+      "Mercedes-Benz",
+      "Red Bull",
+      "Polo"
+    ],
+    "text": "For Mobile Accessories Mobile Phone Cases we have Apple, Samsung, Ananda , Karl , Guess , Levelo, Uniq, Ovose, Spigen, GreenLion, PanzerGlass, BMW, Mercedes-Benz, Red Bull, Polo brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "Car Holders",
+    "brands": [
+      "Xiaomi",
+      "Havit",
+      "Baseus ",
+      "Segway",
+      "Uniq",
+      "Spigen",
+      "Ugreen"
+    ],
+    "text": "For Mobile Accessories Car Holders we have Xiaomi, Havit, Baseus , Segway, Uniq, Spigen, Ugreen brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "Smartphone Rings",
+    "brands": [
+      "Huawei",
+      "Baseus ",
+      "Green ",
+      "Godox",
+      "Spigen",
+      "Ugreen"
+    ],
+    "text": "For Mobile Accessories Smartphone Rings we have Huawei, Baseus , Green , Godox, Spigen, Ugreen brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "GPS Tracker Accessories",
+    "brands": [
+      "Spigen",
+      "Belkin"
+    ],
+    "text": "For Mobile Accessories GPS Tracker Accessories we have Spigen, Belkin brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "Camera Protectors",
+    "brands": [
+      "Glass Pro+",
+      "GlassPro"
+    ],
+    "text": "For Mobile Accessories Camera Protectors we have Glass Pro+, GlassPro brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "GPS Trackers",
+    "brands": [
+      "Apple",
+      "Samsung",
+      "Ugreen"
+    ],
+    "text": "For Mobile Accessories GPS Trackers we have Apple, Samsung, Ugreen brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "Gaming Triggers",
+    "brands": [
+      "Backbone"
+    ],
+    "text": "For Mobile Accessories Gaming Triggers we have Backbone brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "Cables",
+    "brands": [
+      "Apple",
+      "Samsung",
+      "Xiaomi",
+      "Anker",
+      "Hoco",
+      "Baseus ",
+      "Spigen",
+      "Boya",
+      "Belkin",
+      "Ugreen"
+    ],
+    "text": "For Mobile Accessories Cables we have Apple, Samsung, Xiaomi, Anker, Hoco, Baseus , Spigen, Boya, Belkin, Ugreen brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "Wireless chargers",
+    "brands": [
+      "Apple",
+      "Samsung",
+      "Xiaomi",
+      "Havit",
+      "Anker",
+      "Hoco",
+      "Baseus ",
+      "Uniq",
+      "EcoFlow",
+      "Belkin",
+      "Ugreen"
+    ],
+    "text": "For Mobile Accessories Wireless chargers we have Apple, Samsung, Xiaomi, Havit, Anker, Hoco, Baseus , Uniq, EcoFlow, Belkin, Ugreen brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "Smartphone Stabilizers",
+    "brands": [
+      "BOYA",
+      "DJI",
+      "Insta360",
+      "Hohem"
+    ],
+    "text": "For Mobile Accessories Smartphone Stabilizers we have BOYA, DJI, Insta360, Hohem brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "SIM adapters",
+    "brands": [
+      "Noosy"
+    ],
+    "text": "For Mobile Accessories SIM adapters we have Noosy brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "Selfie sticks",
+    "brands": [
+      "Xiaomi",
+      "Godox",
+      "Ugreen"
+    ],
+    "text": "For Mobile Accessories Selfie sticks we have Xiaomi, Godox, Ugreen brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "Car Chargers",
+    "brands": [
+      "Samsung",
+      "Xiaomi",
+      "Havit",
+      "Anker",
+      "Hoco",
+      "Baseus ",
+      "Uniq",
+      "Spigen",
+      "Belkin",
+      "Ugreen"
+    ],
+    "text": "For Mobile Accessories Car Chargers we have Samsung, Xiaomi, Havit, Anker, Hoco, Baseus , Uniq, Spigen, Belkin, Ugreen brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "PowerBanks",
+    "brands": [
+      "Lenovo",
+      "Xiaomi",
+      "Anker",
+      "EcoFlow",
+      "Ugreen"
+    ],
+    "text": "For Mobile Accessories PowerBanks we have Lenovo, Xiaomi, Anker, EcoFlow, Ugreen brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "Screen Protectors",
+    "brands": [
+      "SkinX",
+      "Glass Pro+",
+      "Green Lion",
+      "Uniq",
+      "Spigen",
+      "GreenLion",
+      "GlassPro",
+      "PanzerGlass"
+    ],
+    "text": "For Mobile Accessories Screen Protectors we have SkinX, Glass Pro+, Green Lion, Uniq, Spigen, GreenLion, GlassPro, PanzerGlass brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "Connectors",
+    "brands": [
+      "Apple",
+      "Samsung",
+      "Hoco",
+      "Baseus ",
+      "Boya",
+      "Ugreen"
+    ],
+    "text": "For Mobile Accessories Connectors we have Apple, Samsung, Hoco, Baseus , Boya, Ugreen brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "Headphones & Headsets",
+    "brands": [
+      "Apple",
+      "OnePlus",
+      "Samsung",
+      "Sony",
+      "Xiaomi",
+      "Google",
+      "Realme",
+      "Nothing",
+      "JBL ",
+      "JBL",
+      "Logitech",
+      "Baseus ",
+      "Bose",
+      "Marshall",
+      "Beats",
+      "Bowers & Wilkins",
+      "Bang & Olufsen",
+      "Motorola"
+    ],
+    "text": "For Mobile Accessories Headphones & Headsets we have Apple, OnePlus, Samsung, Sony, Xiaomi, Google, Realme, Nothing, JBL , JBL, Logitech, Baseus , Bose, Marshall, Beats, Bowers & Wilkins, Bang & Olufsen, Motorola brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "Micro SD Memory Cards",
+    "brands": [
+      "Samsung",
+      "SanDisk"
+    ],
+    "text": "For Mobile Accessories Micro SD Memory Cards we have Samsung, SanDisk brands."
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": "OTG flash memory",
+    "brands": [
+      "HP",
+      "SanDisk"
+    ],
+    "text": "For Mobile Accessories OTG flash memory we have HP, SanDisk brands."
+  },
+  {
+    "category": "Gaming",
+    "subcategory": "VR Glasses ",
+    "brands": [
+      "Meta"
+    ],
+    "text": "For Gaming VR Glasses  we have Meta brands."
+  },
+  {
+    "category": "Gaming",
+    "subcategory": "Streaming microphones",
+    "brands": [
+      "Havit",
+      "HyperX ",
+      "Razer",
+      "JBL",
+      "BOYA",
+      "Godox"
+    ],
+    "text": "For Gaming Streaming microphones we have Havit, HyperX , Razer, JBL, BOYA, Godox brands."
+  },
+  {
+    "category": "Gaming",
+    "subcategory": "Game Consoles",
+    "brands": [
+      "Lenovo",
+      "Sony",
+      "Microsoft",
+      "Nintendo",
+      "Backbone",
+      "Meta",
+      "Steam Deck"
+    ],
+    "text": "For Gaming Game Consoles we have Lenovo, Sony, Microsoft, Nintendo, Backbone, Meta, Steam Deck brands."
+  },
+  {
+    "category": "Gaming",
+    "subcategory": "Gaming headphones",
+    "brands": [
+      "Havit",
+      "HyperX ",
+      "JBL ",
+      "Razer",
+      "JBL",
+      "Logitech"
+    ],
+    "text": "For Gaming Gaming headphones we have Havit, HyperX , JBL , Razer, JBL, Logitech brands."
+  },
+  {
+    "category": "Gaming",
+    "subcategory": "VR simulators",
+    "brands": [
+      "Sony",
+      "Meta"
+    ],
+    "text": "For Gaming VR simulators we have Sony, Meta brands."
+  },
+  {
+    "category": "Gaming",
+    "subcategory": "Controllers",
+    "brands": [
+      "Sony",
+      "Microsoft",
+      "Nintendo"
+    ],
+    "text": "For Gaming Controllers we have Sony, Microsoft, Nintendo brands."
+  },
+  {
+    "category": "Gaming",
+    "subcategory": "Games",
+    "brands": [
+      "Sony",
+      "Microsoft",
+      "Nintendo"
+    ],
+    "text": "For Gaming Games we have Sony, Microsoft, Nintendo brands."
+  },
+  {
+    "category": "Gaming",
+    "subcategory": "Gaming monitors",
+    "brands": [
+      "Xiaomi",
+      "Acer",
+      "Dell"
+    ],
+    "text": "For Gaming Gaming monitors we have Xiaomi, Acer, Dell brands."
+  },
+  {
+    "category": "Gaming",
+    "subcategory": "Gaming laptops",
+    "brands": [
+      "Lenovo",
+      "Asus",
+      "HP",
+      "MSI"
+    ],
+    "text": "For Gaming Gaming laptops we have Lenovo, Asus, HP, MSI brands."
+  },
+  {
+    "category": "Gaming accessories",
+    "subcategory": "Gaming Keyboards",
+    "brands": [
+      "Havit",
+      "HyperX ",
+      "Razer",
+      "Logitech"
+    ],
+    "text": "For Gaming accessories Gaming Keyboards we have Havit, HyperX , Razer, Logitech brands."
+  },
+  {
+    "category": "Gaming accessories",
+    "subcategory": "Gaming headphones",
+    "brands": [
+      "Havit",
+      "HyperX ",
+      "JBL ",
+      "Razer",
+      "JBL",
+      "Logitech"
+    ],
+    "text": "For Gaming accessories Gaming headphones we have Havit, HyperX , JBL , Razer, JBL, Logitech brands."
+  },
+  {
+    "category": "Gaming accessories",
+    "subcategory": "Gaming chairs",
+    "brands": [
+      "Havit",
+      "HyperX "
+    ],
+    "text": "For Gaming accessories Gaming chairs we have Havit, HyperX  brands."
+  },
+  {
+    "category": "Gaming accessories",
+    "subcategory": "Wheels",
+    "brands": [
+      "Logitech",
+      "Thrustmaster"
+    ],
+    "text": "For Gaming accessories Wheels we have Logitech, Thrustmaster brands."
+  },
+  {
+    "category": "Gaming accessories",
+    "subcategory": "Cooling pads",
+    "brands": [
+      "Havit"
+    ],
+    "text": "For Gaming accessories Cooling pads we have Havit brands."
+  },
+  {
+    "category": "Gaming accessories",
+    "subcategory": "Gaming speakers",
+    "brands": [
+      "Havit",
+      "Razer"
+    ],
+    "text": "For Gaming accessories Gaming speakers we have Havit, Razer brands."
+  },
+  {
+    "category": "Gaming accessories",
+    "subcategory": "SSD hard drives",
+    "brands": [
+      "Samsung",
+      "SanDisk",
+      "Kingston",
+      "WD"
+    ],
+    "text": "For Gaming accessories SSD hard drives we have Samsung, SanDisk, Kingston, WD brands."
+  },
+  {
+    "category": "Gaming accessories",
+    "subcategory": "Web Cameras",
+    "brands": [
+      "Lenovo",
+      "Razer",
+      "Logitech",
+      "HP"
+    ],
+    "text": "For Gaming accessories Web Cameras we have Lenovo, Razer, Logitech, HP brands."
+  },
+  {
+    "category": "Gaming accessories",
+    "subcategory": "Gaming mice",
+    "brands": [
+      "Havit",
+      "HyperX ",
+      "Razer",
+      "Logitech",
+      "HP",
+      "SteelSeries"
+    ],
+    "text": "For Gaming accessories Gaming mice we have Havit, HyperX , Razer, Logitech, HP, SteelSeries brands."
+  },
+  {
+    "category": "Gaming accessories",
+    "subcategory": "HDMI & LAN cables",
+    "brands": [
+      "Baseus ",
+      "Spigen",
+      "Belkin",
+      "Ugreen"
+    ],
+    "text": "For Gaming accessories HDMI & LAN cables we have Baseus , Spigen, Belkin, Ugreen brands."
+  },
+  {
+    "category": "Gaming accessories",
+    "subcategory": "Wi-Fi routers",
+    "brands": [
+      "Xiaomi",
+      "Asus",
+      "Tp-Link"
+    ],
+    "text": "For Gaming accessories Wi-Fi routers we have Xiaomi, Asus, Tp-Link brands."
+  },
+  {
+    "category": "Gaming accessories",
+    "subcategory": "LTE routers",
+    "brands": [
+      "Tp-Link"
+    ],
+    "text": "For Gaming accessories LTE routers we have Tp-Link brands."
+  },
+  {
+    "category": "Gaming accessories",
+    "subcategory": "RGB lighting",
+    "brands": [
+      "Govee"
+    ],
+    "text": "For Gaming accessories RGB lighting we have Govee brands."
+  },
+  {
+    "category": "Kitchen",
+    "subcategory": "Kettle",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Kitchen Kettle we have Xiaomi brands."
+  },
+  {
+    "category": "Kitchen",
+    "subcategory": "Juicer",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Kitchen Juicer we have Xiaomi brands."
+  },
+  {
+    "category": "Kitchen",
+    "subcategory": "Induction furnace",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Kitchen Induction furnace we have Xiaomi brands."
+  },
+  {
+    "category": "Kitchen",
+    "subcategory": "Thermoses",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Kitchen Thermoses we have Xiaomi brands."
+  },
+  {
+    "category": "Kitchen",
+    "subcategory": "Food Chopper",
+    "brands": [
+      "Xiaomi",
+      "Deerma"
+    ],
+    "text": "For Kitchen Food Chopper we have Xiaomi, Deerma brands."
+  },
+  {
+    "category": "Kitchen",
+    "subcategory": "Aerocool",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Kitchen Aerocool we have Xiaomi brands."
+  },
+  {
+    "category": "Gaming Monitors",
+    "brands": [
+      "Acer",
+      "Dell",
+      "Xiaomi"
+    ],
+    "text": "For Gaming Monitors we have Acer, Dell, Xiaomi brands."
+  },
+  {
+    "category": "Drones and accessories",
+    "brands": [
+      "DJI"
+    ],
+    "text": "For Drones and accessories we have DJI brands."
+  },
+  {
+    "category": "Fitness trackers and accessories",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Fitness trackers and accessories we have Xiaomi brands."
+  },
+  {
+    "category": "Scooters",
+    "subcategory": "Scooter accessories",
+    "brands": [
+      "Xiaomi",
+      "Baseus ",
+      "Segway"
+    ],
+    "text": "For Scooters Scooter accessories we have Xiaomi, Baseus , Segway brands."
+  },
+  {
+    "category": "Scooters",
+    "subcategory": "Helmets",
+    "brands": [
+      "Xiaomi",
+      "Segway"
+    ],
+    "text": "For Scooters Helmets we have Xiaomi, Segway brands."
+  },
+  {
+    "category": "Scooters",
+    "subcategory": "Segway",
+    "brands": [
+      "Segway"
+    ],
+    "text": "For Scooters Segway we have Segway brands."
+  },
+  {
+    "category": "Scooters",
+    "subcategory": "Xiaomi",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Scooters Xiaomi we have Xiaomi brands."
+  },
+  {
+    "category": "TV and monitor accessories",
+    "subcategory": "Power extenders",
+    "brands": [
+      "Defender"
+    ],
+    "text": "For TV and monitor accessories Power extenders we have Defender brands."
+  },
+  {
+    "category": "TV and monitor accessories",
+    "subcategory": "HDMI cable",
+    "brands": [
+      "Spigen",
+      "Belkin",
+      "Ugreen"
+    ],
+    "text": "For TV and monitor accessories HDMI cable we have Spigen, Belkin, Ugreen brands."
+  },
+  {
+    "category": "TV and monitor accessories",
+    "subcategory": "TV Hangers",
+    "brands": [
+      "One Star",
+      "Skill Tech"
+    ],
+    "text": "For TV and monitor accessories TV Hangers we have One Star, Skill Tech brands."
+  },
+  {
+    "category": "TV and monitor accessories",
+    "subcategory": "Powerstations",
+    "brands": [
+      "Anker",
+      "EcoFlow"
+    ],
+    "text": "For TV and monitor accessories Powerstations we have Anker, EcoFlow brands."
+  },
+  {
+    "category": "TV and monitor accessories",
+    "subcategory": "Elements",
+    "brands": [
+      "Energizer",
+      "Duracell"
+    ],
+    "text": "For TV and monitor accessories Elements we have Energizer, Duracell brands."
+  },
+  {
+    "category": "TV and monitor accessories",
+    "subcategory": "Monitor lighting",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For TV and monitor accessories Monitor lighting we have Xiaomi brands."
+  },
+  {
+    "category": "TV and monitor accessories",
+    "subcategory": "Display cleaners",
+    "brands": [
+      "2E"
+    ],
+    "text": "For TV and monitor accessories Display cleaners we have 2E brands."
+  },
+  {
+    "category": "TV and monitor accessories",
+    "subcategory": "RGB lighting",
+    "brands": [
+      "Govee"
+    ],
+    "text": "For TV and monitor accessories RGB lighting we have Govee brands."
+  },
+  {
+    "category": "TV and monitor accessories",
+    "subcategory": "TV keyboards",
+    "brands": [
+      "Xiaomi",
+      "Asus",
+      "Logitech"
+    ],
+    "text": "For TV and monitor accessories TV keyboards we have Xiaomi, Asus, Logitech brands."
+  },
+  {
+    "category": "TV and monitor accessories",
+    "subcategory": "LAN cable",
+    "brands": [
+      "Baseus ",
+      "Belkin",
+      "Ugreen"
+    ],
+    "text": "For TV and monitor accessories LAN cable we have Baseus , Belkin, Ugreen brands."
+  },
+  {
+    "category": "TV and monitor accessories",
+    "subcategory": "Web Cameras",
+    "brands": [
+      "Lenovo",
+      "Razer",
+      "Logitech",
+      "HP"
+    ],
+    "text": "For TV and monitor accessories Web Cameras we have Lenovo, Razer, Logitech, HP brands."
+  },
+  {
+    "category": "TV and monitor accessories",
+    "subcategory": "Wi-Fi routers",
+    "brands": [
+      "Xiaomi",
+      "Asus",
+      "Tp-Link",
+      "Ubiquiti"
+    ],
+    "text": "For TV and monitor accessories Wi-Fi routers we have Xiaomi, Asus, Tp-Link, Ubiquiti brands."
+  },
+  {
+    "category": "PlayStation",
+    "subcategory": "PlayStation games",
+    "brands": [
+      "Sony"
+    ],
+    "text": "For PlayStation PlayStation games we have Sony brands."
+  },
+  {
+    "category": "PlayStation",
+    "subcategory": "PlayStation accessories",
+    "brands": [
+      "Sony",
+      "Havit",
+      "HyperX ",
+      "Logitech",
+      "Thrustmaster",
+      "Dobe",
+      "Dobi",
+      "OTVO"
+    ],
+    "text": "For PlayStation PlayStation accessories we have Sony, Havit, HyperX , Logitech, Thrustmaster, Dobe, Dobi, OTVO brands."
+  },
+  {
+    "category": "PlayStation",
+    "subcategory": "Controller accessories",
+    "brands": [
+      "HyperX "
+    ],
+    "text": "For PlayStation Controller accessories we have HyperX  brands."
+  },
+  {
+    "category": "PlayStation",
+    "subcategory": "PlayStation",
+    "brands": [
+      "Sony"
+    ],
+    "text": "For PlayStation PlayStation we have Sony brands."
+  },
+  {
+    "category": "PlayStation",
+    "subcategory": "PlayStation VR",
+    "brands": [
+      "Sony"
+    ],
+    "text": "For PlayStation PlayStation VR we have Sony brands."
+  },
+  {
+    "category": "PlayStation",
+    "subcategory": "PlayStation controllers",
+    "brands": [
+      "Sony"
+    ],
+    "text": "For PlayStation PlayStation controllers we have Sony brands."
+  },
+  {
+    "category": "Vacuum cleaners",
+    "subcategory": "Portable vacuum cleaners",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Vacuum cleaners Portable vacuum cleaners we have Xiaomi brands."
+  },
+  {
+    "category": "Vacuum cleaners",
+    "subcategory": "Hand vacuum cleaners",
+    "brands": [
+      "Xiaomi",
+      "Dyson",
+      "Dreame"
+    ],
+    "text": "For Vacuum cleaners Hand vacuum cleaners we have Xiaomi, Dyson, Dreame brands."
+  },
+  {
+    "category": "Vacuum cleaners",
+    "subcategory": "Vacuum cleaner accessories",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Vacuum cleaners Vacuum cleaner accessories we have Xiaomi brands."
+  },
+  {
+    "category": "Vacuum cleaners",
+    "subcategory": "Robot vacuum cleaners",
+    "brands": [
+      "Xiaomi",
+      "Roborock",
+      "Dreame"
+    ],
+    "text": "For Vacuum cleaners Robot vacuum cleaners we have Xiaomi, Roborock, Dreame brands."
+  },
+  {
+    "category": "Self-care",
+    "subcategory": "Shaver",
+    "brands": [
+      "Xiaomi",
+      "Philips",
+      "Babyliss"
+    ],
+    "text": "For Self-care Shaver we have Xiaomi, Philips, Babyliss brands."
+  },
+  {
+    "category": "Self-care",
+    "subcategory": "Trimmers",
+    "brands": [
+      "Xiaomi",
+      "Philips"
+    ],
+    "text": "For Self-care Trimmers we have Xiaomi, Philips brands."
+  },
+  {
+    "category": "Self-care",
+    "subcategory": "Hair Iron",
+    "brands": [
+      "Xiaomi",
+      "Philips",
+      "Dyson",
+      "Dreame"
+    ],
+    "text": "For Self-care Hair Iron we have Xiaomi, Philips, Dyson, Dreame brands."
+  },
+  {
+    "category": "Self-care",
+    "subcategory": "Massagers",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Self-care Massagers we have Xiaomi brands."
+  },
+  {
+    "category": "Self-care",
+    "subcategory": "WalkingPads",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Self-care WalkingPads we have Xiaomi brands."
+  },
+  {
+    "category": "Self-care",
+    "subcategory": "Toothbrush",
+    "brands": [
+      "Xiaomi",
+      "Philips",
+      "Laifen"
+    ],
+    "text": "For Self-care Toothbrush we have Xiaomi, Philips, Laifen brands."
+  },
+  {
+    "category": "Self-care",
+    "subcategory": "Hair dryer",
+    "brands": [
+      "Xiaomi",
+      "Philips",
+      "Dyson"
+    ],
+    "text": "For Self-care Hair dryer we have Xiaomi, Philips, Dyson brands."
+  },
+  {
+    "category": "Self-care",
+    "subcategory": "Scales",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Self-care Scales we have Xiaomi brands."
+  },
+  {
+    "category": "Self-care",
+    "subcategory": "Soap dispenser",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Self-care Soap dispenser we have Xiaomi brands."
+  },
+  {
+    "category": "Self-care",
+    "subcategory": "Shaver Replacement Blades",
+    "brands": [
+      "Xiaomi",
+      "Philips"
+    ],
+    "text": "For Self-care Shaver Replacement Blades we have Xiaomi, Philips brands."
+  },
+  {
+    "category": "Self-care",
+    "subcategory": "Toothbrush Heads",
+    "brands": [
+      "Xiaomi",
+      "Philips"
+    ],
+    "text": "For Self-care Toothbrush Heads we have Xiaomi, Philips brands."
+  },
+  {
+    "category": "Action Cameras",
+    "subcategory": "Action camera accessories",
+    "brands": [
+      "GoPro",
+      "Insta360"
+    ],
+    "text": "For Action Cameras Action camera accessories we have GoPro, Insta360 brands."
+  },
+  {
+    "category": "Action Cameras",
+    "subcategory": "DJI Osmo",
+    "brands": [
+      "DJI"
+    ],
+    "text": "For Action Cameras DJI Osmo we have DJI brands."
+  },
+  {
+    "category": "Action Cameras",
+    "subcategory": "GoPro",
+    "brands": [
+      "GoPro"
+    ],
+    "text": "For Action Cameras GoPro we have GoPro brands."
+  },
+  {
+    "category": "Action Cameras",
+    "subcategory": "Action Cameras",
+    "brands": [
+      "DJI",
+      "GoPro",
+      "Insta360"
+    ],
+    "text": "For Action Cameras Action Cameras we have DJI, GoPro, Insta360 brands."
+  },
+  {
+    "category": "Tools",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Tools we have Xiaomi brands."
+  },
+  {
+    "category": "Photo Printers",
+    "brands": [
+      "Canon",
+      "Fujifilm",
+      "Polaroid",
+      "Xiaomi"
+    ],
+    "text": "For Photo Printers we have Canon, Fujifilm, Polaroid, Xiaomi brands."
+  },
+  {
+    "category": "HDMI & LAN Cables",
+    "subcategory": "HDMI Cables",
+    "brands": [
+      "Baseus ",
+      "Spigen",
+      "Belkin",
+      "Ugreen"
+    ],
+    "text": "For HDMI & LAN Cables HDMI Cables we have Baseus , Spigen, Belkin, Ugreen brands."
+  },
+  {
+    "category": "HDMI & LAN Cables",
+    "subcategory": "LAN Cables",
+    "brands": [
+      "TP-Link",
+      "Baseus ",
+      "Belkin",
+      "Ugreen"
+    ],
+    "text": "For HDMI & LAN Cables LAN Cables we have TP-Link, Baseus , Belkin, Ugreen brands."
+  },
+  {
+    "category": "IT",
+    "subcategory": "Wi-Fi & Bluetooth Adapters",
+    "brands": [
+      "TP-Link",
+      "Baseus ",
+      "Tp-Link",
+      "Ugreen"
+    ],
+    "text": "For IT Wi-Fi & Bluetooth Adapters we have TP-Link, Baseus , Tp-Link, Ugreen brands."
+  },
+  {
+    "category": "IT",
+    "subcategory": "HUB connectors",
+    "brands": [
+      "Apple",
+      "Xiaomi",
+      "Havit",
+      "Anker",
+      "HP",
+      "Baseus ",
+      "Tp-Link",
+      "Belkin",
+      "Ugreen"
+    ],
+    "text": "For IT HUB connectors we have Apple, Xiaomi, Havit, Anker, HP, Baseus , Tp-Link, Belkin, Ugreen brands."
+  },
+  {
+    "category": "IT",
+    "subcategory": "Printer accessories",
+    "brands": [
+      "Canon"
+    ],
+    "text": "For IT Printer accessories we have Canon brands."
+  },
+  {
+    "category": "IT",
+    "subcategory": "Printers",
+    "brands": [
+      "Canon"
+    ],
+    "text": "For IT Printers we have Canon brands."
+  },
+  {
+    "category": "IT",
+    "subcategory": "Wi-Fi routers",
+    "brands": [
+      "Xiaomi",
+      "Asus",
+      "Tp-Link",
+      "Ubiquiti"
+    ],
+    "text": "For IT Wi-Fi routers we have Xiaomi, Asus, Tp-Link, Ubiquiti brands."
+  },
+  {
+    "category": "IT",
+    "subcategory": "LTE routers",
+    "brands": [
+      "Tp-Link"
+    ],
+    "text": "For IT LTE routers we have Tp-Link brands."
+  },
+  {
+    "category": "Laptop brands",
+    "brands": [
+      "Acer",
+      "Apple",
+      "Asus",
+      "Dell",
+      "HP",
+      "Honor",
+      "Lenovo",
+      "MSI"
+    ],
+    "text": "For Laptop brands we have Acer, Apple, Asus, Dell, HP, Honor, Lenovo, MSI brands."
+  },
+  {
+    "category": "Laptops",
+    "subcategory": "Business laptop",
+    "brands": [
+      "Apple",
+      "Honor",
+      "Lenovo",
+      "Asus",
+      "HP",
+      "Dell"
+    ],
+    "text": "For Laptops Business laptop we have Apple, Honor, Lenovo, Asus, HP, Dell brands."
+  },
+  {
+    "category": "Laptops",
+    "subcategory": "Gaming laptop",
+    "brands": [
+      "Lenovo",
+      "Asus",
+      "HP",
+      "MSI"
+    ],
+    "text": "For Laptops Gaming laptop we have Lenovo, Asus, HP, MSI brands."
+  },
+  {
+    "category": "Laptops",
+    "subcategory": "Classic laptop",
+    "brands": [
+      "Honor",
+      "Lenovo",
+      "Asus",
+      "Acer",
+      "HP",
+      "Dell",
+      "MSI"
+    ],
+    "text": "For Laptops Classic laptop we have Honor, Lenovo, Asus, Acer, HP, Dell, MSI brands."
+  },
+  {
+    "category": "TV's",
+    "brands": [
+      "Samsung",
+      "Xiaomi"
+    ],
+    "text": "For TV's we have Samsung, Xiaomi brands."
+  },
+  {
+    "category": "Outdoor",
+    "subcategory": "Powerstations",
+    "brands": [
+      "Anker",
+      "EcoFlow"
+    ],
+    "text": "For Outdoor Powerstations we have Anker, EcoFlow brands."
+  },
+  {
+    "category": "Outdoor",
+    "subcategory": "Action Cameras",
+    "brands": [
+      "DJI",
+      "GoPro",
+      "Insta360"
+    ],
+    "text": "For Outdoor Action Cameras we have DJI, GoPro, Insta360 brands."
+  },
+  {
+    "category": "Outdoor",
+    "subcategory": "PowerBanks",
+    "brands": [
+      "Lenovo",
+      "Xiaomi",
+      "Anker",
+      "EcoFlow",
+      "Ugreen"
+    ],
+    "text": "For Outdoor PowerBanks we have Lenovo, Xiaomi, Anker, EcoFlow, Ugreen brands."
+  },
+  {
+    "category": "Smart Watches",
+    "subcategory": "Xiaomi Watch",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Smart Watches Xiaomi Watch we have Xiaomi brands."
+  },
+  {
+    "category": "Smart Watches",
+    "subcategory": "Galaxy Watch",
+    "brands": [
+      "Samsung"
+    ],
+    "text": "For Smart Watches Galaxy Watch we have Samsung brands."
+  },
+  {
+    "category": "Smart Watches",
+    "subcategory": "Apple Watch",
+    "brands": [
+      "Apple"
+    ],
+    "text": "For Smart Watches Apple Watch we have Apple brands."
+  },
+  {
+    "category": "Smart Watches",
+    "subcategory": "Nothing Watch",
+    "brands": [
+      "Nothing"
+    ],
+    "text": "For Smart Watches Nothing Watch we have Nothing brands."
+  },
+  {
+    "category": "Smart Watches",
+    "subcategory": "Lagenio Watch",
+    "brands": [
+      "Lagenio"
+    ],
+    "text": "For Smart Watches Lagenio Watch we have Lagenio brands."
+  },
+  {
+    "category": "Smart Watches",
+    "subcategory": "Google Watch",
+    "brands": [
+      "Google"
+    ],
+    "text": "For Smart Watches Google Watch we have Google brands."
+  },
+  {
+    "category": "Smart Watches",
+    "subcategory": "Amazfit Watch",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Smart Watches Amazfit Watch we have Xiaomi brands."
+  },
+  {
+    "category": "Smart Watches",
+    "subcategory": "OnePlus Watch",
+    "brands": [
+      "Oneplus"
+    ],
+    "text": "For Smart Watches OnePlus Watch we have Oneplus brands."
+  },
+  {
+    "category": "Smart Watches",
+    "subcategory": "Garmin Watch",
+    "brands": [
+      "Garmin"
+    ],
+    "text": "For Smart Watches Garmin Watch we have Garmin brands."
+  },
+  {
+    "category": "Smart Watches",
+    "subcategory": "Smart watch accessories",
+    "brands": [
+      "Glass Pro+",
+      "Uniq",
+      "GlassPro",
+      "PanzerGlass"
+    ],
+    "text": "For Smart Watches Smart watch accessories we have Glass Pro+, Uniq, GlassPro, PanzerGlass brands."
+  },
+  {
+    "category": "Smartphone photography",
+    "subcategory": "Vlog set",
+    "brands": [
+      "Godox"
+    ],
+    "text": "For Smartphone photography Vlog set we have Godox brands."
+  },
+  {
+    "category": "Smartphone photography",
+    "subcategory": "Lapel microphones",
+    "brands": [
+      "BOYA",
+      "Godox"
+    ],
+    "text": "For Smartphone photography Lapel microphones we have BOYA, Godox brands."
+  },
+  {
+    "category": "Nintendo",
+    "subcategory": "Nintendo",
+    "brands": [
+      "Nintendo"
+    ],
+    "text": "For Nintendo Nintendo we have Nintendo brands."
+  },
+  {
+    "category": "Nintendo",
+    "subcategory": "Nintendo controllers",
+    "brands": [
+      "Nintendo"
+    ],
+    "text": "For Nintendo Nintendo controllers we have Nintendo brands."
+  },
+  {
+    "category": "Nintendo",
+    "subcategory": "Nintendo accessories",
+    "brands": [
+      "Samsung",
+      "Nintendo",
+      "SanDisk",
+      "Tomtoc",
+      "Uniq",
+      "Spigen",
+      "Ugreen"
+    ],
+    "text": "For Nintendo Nintendo accessories we have Samsung, Nintendo, SanDisk, Tomtoc, Uniq, Spigen, Ugreen brands."
+  },
+  {
+    "category": "Nintendo",
+    "subcategory": "Nintendo games",
+    "brands": [
+      "Nintendo"
+    ],
+    "text": "For Nintendo Nintendo games we have Nintendo brands."
+  },
+  {
+    "category": "Photo and video cameras",
+    "brands": [
+      "Canon",
+      "Nikon",
+      "Sony"
+    ],
+    "text": "For Photo and video cameras we have Canon, Nikon, Sony brands."
+  },
+  {
+    "category": "Smart move",
+    "subcategory": "Scooter accessories",
+    "brands": [
+      "Xiaomi",
+      "Baseus ",
+      "Segway"
+    ],
+    "text": "For Smart move Scooter accessories we have Xiaomi, Baseus , Segway brands."
+  },
+  {
+    "category": "Smart move",
+    "subcategory": "Scooters",
+    "brands": [
+      "Xiaomi",
+      "Segway"
+    ],
+    "text": "For Smart move Scooters we have Xiaomi, Segway brands."
+  },
+  {
+    "category": "Smart move",
+    "subcategory": "Helmets",
+    "brands": [
+      "Xiaomi",
+      "Segway"
+    ],
+    "text": "For Smart move Helmets we have Xiaomi, Segway brands."
+  },
+  {
+    "category": "All-in-One",
+    "brands": [
+      "Apple"
+    ],
+    "text": "For All-in-One we have Apple brands."
+  },
+  {
+    "category": "Photo Printer Accessories",
+    "subcategory": "Photo printer sheets",
+    "brands": [
+      "Xiaomi",
+      "Polaroid",
+      "Fujifilm"
+    ],
+    "text": "For Photo Printer Accessories Photo printer sheets we have Xiaomi, Polaroid, Fujifilm brands."
+  },
+  {
+    "category": "Solar panels",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Solar panels we have Xiaomi brands."
+  },
+  {
+    "category": "Smart home",
+    "subcategory": "Smart home",
+    "brands": [
+      "Apple",
+      "Samsung",
+      "Xiaomi",
+      "Google",
+      "Havit",
+      "Anker",
+      "Philips",
+      "Dyson",
+      "Wanbo",
+      "Amazon",
+      "EcoFlow",
+      "Roborock",
+      "Dreame",
+      "Lockin",
+      "Aqara"
+    ],
+    "text": "For Smart home Smart home we have Apple, Samsung, Xiaomi, Google, Havit, Anker, Philips, Dyson, Wanbo, Amazon, EcoFlow, Roborock, Dreame, Lockin, Aqara brands."
+  },
+  {
+    "category": "Smart sensors",
+    "subcategory": "Smart sensors",
+    "brands": [
+      "Xiaomi",
+      "Google",
+      "Aqara"
+    ],
+    "text": "For Smart sensors Smart sensors we have Xiaomi, Google, Aqara brands."
+  },
+  {
+    "category": "Smart lighting",
+    "subcategory": "RGB lighting",
+    "brands": [
+      "Govee"
+    ],
+    "text": "For Smart lighting RGB lighting we have Govee brands."
+  },
+  {
+    "category": "Smart lighting",
+    "subcategory": "A table lamp",
+    "brands": [
+      "Xiaomi"
+    ],
+    "text": "For Smart lighting A table lamp we have Xiaomi brands."
+  },
+  {
+    "category": "Smart lighting",
+    "subcategory": "Smart lamps",
+    "brands": [
+      "Xiaomi",
+      "Aqara"
+    ],
+    "text": "For Smart lighting Smart lamps we have Xiaomi, Aqara brands."
+  },
+  {
+    "category": "USB Flesh Drives",
+    "subcategory": "USB Flesh Drives",
+    "brands": [
+      "Samsung",
+      "HP",
+      "SanDisk"
+    ],
+    "text": "For USB Flesh Drives USB Flesh Drives we have Samsung, HP, SanDisk brands."
+  },
+  {
+    "category": "USB Flesh Drives",
+    "subcategory": "OTG Flesh Drives",
+    "brands": [
+      "HP",
+      "SanDisk"
+    ],
+    "text": "For USB Flesh Drives OTG Flesh Drives we have HP, SanDisk brands."
+  },
+  {
+    "category": "Memory Cards",
+    "subcategory": "Micro SD Memory Cards",
+    "brands": [
+      "Samsung",
+      "SanDisk"
+    ],
+    "text": "For Memory Cards Micro SD Memory Cards we have Samsung, SanDisk brands."
+  },
+  {
+    "category": "Memory Cards",
+    "subcategory": "SD Memory Cards",
+    "brands": [
+      "Samsung",
+      "SanDisk"
+    ],
+    "text": "For Memory Cards SD Memory Cards we have Samsung, SanDisk brands."
+  }
+]

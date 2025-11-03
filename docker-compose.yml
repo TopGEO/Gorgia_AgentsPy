@@ -1,0 +1,17 @@
+services:
+  app:
+    build:
+      context: .
+    container_name: agentspy
+    command: uvicorn app.api:app --host 0.0.0.0 --port 8008 --reload --log-level debug
+    volumes:
+      - .:/app
+    ports:
+      - "8008:8008"
+    env_file:
+      - .env
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTHONIOENCODING=UTF-8
+    tty: true
+    stdin_open: true
