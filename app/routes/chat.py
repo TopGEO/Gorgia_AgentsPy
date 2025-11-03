@@ -1,4 +1,4 @@
-"""Main API module for Tika - Zoommer expert chatbot"""
+"""Main API module for Sandro - Gorgia expert chatbot"""
 import logging
 import uuid
 from fastapi import FastAPI, HTTPException
@@ -14,7 +14,7 @@ from .chat_helpers import (
 )
 from ..utils.translator import translate_if_needed
 
-app = FastAPI(title="Tika - Zoommer expert")
+app = FastAPI(title="Sandro - Gorgia expert")
 
 app.add_middleware(
     CORSMiddleware,
@@ -40,6 +40,7 @@ async def chat_endpoint(request: ChatRequest):
         session_id = request.session_id or str(uuid.uuid4())
 
         history = chat.get_message_history(session_id, request.browser_id)
+        
         # Sanitize messages from database to comply with Gemini's conversation rules
         messages = sanitize_messages_for_gemini(list(history.messages)) if history.messages else []
 

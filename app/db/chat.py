@@ -6,11 +6,26 @@ import psycopg
 _connection = None
 _table_created = False
 
-def get_message_history(session_id: str, browser_id: str = None) -> PostgresChatMessageHistory:
-    global _connection, _table_created
+def _get_connection():
+    """Get or create a database connection, reconnecting if closed."""
+    global _connection
 
     if _connection is None:
         _connection = psycopg.connect(settings.database_url)
+    else:
+        # Check if connection is closed and reconnect if needed
+        try:
+            _connection.execute("SELECT 1")
+        except (psycopg.OperationalError, psycopg.InterfaceError):
+            _connection = psycopg.connect(settings.database_url)
+
+    return _connection
+
+def get_message_history(session_id: str, browser_id: str = None) -> PostgresChatMessageHistory:
+    global _connection, _table_created
+
+    _connection = _get_connection()
+
 
     # Store browser_id in the session if provided (after messages are added)
     if browser_id:
