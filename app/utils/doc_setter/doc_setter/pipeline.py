@@ -27,7 +27,7 @@ async def embed_text_documents_from_path(
     )
 
     logger.info(f"Reading text documents from {base_path}")
-    chunks = read_txt_files_add_filename_metadata_and_return_chunks(
+    chunks = await read_txt_files_add_filename_metadata_and_return_chunks(
         base_path=base_path,
         text_splitter=text_splitter
     )
