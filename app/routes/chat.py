@@ -97,7 +97,6 @@ async def chat_endpoint(request: ChatRequest):
             payload = {"products": products_list}
         
         ai_message = await translate_if_needed(ai_message)
-        ai_message = await translate_if_needed(ai_message)
         
         return ChatResponse(
             response=ai_message,
