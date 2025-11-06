@@ -86,14 +86,14 @@ async def chat_endpoint(request: ChatRequest):
         if product_ids:
             product_ids_int = [int(pid) for pid in product_ids]
             products = await vector_store.search_by_id(product_ids_int)
-            
+
             def safe_validate(p):
                 try:
-                    return Product.model_validate(p.payload).to_frontend_dict()
+                    return Product.from_search_result(p).to_frontend_dict()
                 except Exception as e:
                     print(f"Failed to parse product: {e}")
                     return None
-            
+
             products_list = [p for p in (safe_validate(product) for product in products) if p is not None]
             payload = {"products": products_list}
         
