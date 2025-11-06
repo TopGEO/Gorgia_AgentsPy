@@ -40,7 +40,7 @@ class SearchFilters(BaseModel):
 
 class SearchProductsInput(BaseModel):
     query: str = Field(
-        description="A clear, specific search query describing the items to find. Only English query is accepted."
+        description="A clear, specific search query describing the items to find. Any language query is accepted, but for better results, use user language query."
     )
     filters: Optional[SearchFilters] = Field(
         None,

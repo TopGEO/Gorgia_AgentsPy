@@ -3,7 +3,7 @@ from ..db import vector_store
 from pydantic import BaseModel, Field
 
 class StorePolicyInput(BaseModel):
-    query: str = Field(description="Always return a clear, specific query about company information you need. Only English query is accepted.",)
+    query: str = Field(description="Always return a clear, specific query about company information you need. Any language query is accepted, but for better results, use user language query.",)
 
 @tool(args_schema=StorePolicyInput)
 async def get_store_policy(query: str) -> str:
