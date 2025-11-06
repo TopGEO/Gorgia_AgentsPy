@@ -3,8 +3,7 @@ from langgraph.graph import StateGraph, END
 from .state import AgentState
 from .nodes import agent_node, tool_node, extract_final_response, should_continue
 
-def should_continue_after_tools(state: AgentState) -> str:
-    """Check if we should transfer to operator directly after tools"""
+async def should_continue_after_tools(state: AgentState) -> str:
     if "order_status_transfer" in state and state["order_status_transfer"].get("should_transfer"):
         return "extract_response"
     return "agent"

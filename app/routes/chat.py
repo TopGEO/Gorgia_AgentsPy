@@ -13,6 +13,7 @@ from .chat_helpers import (
     find_last_ai_message,
 )
 from ..utils.translator import translate_if_needed
+from ..config import settings
 
 app = FastAPI(title="Sandro - Gorgia expert")
 
@@ -27,13 +28,19 @@ app.add_middleware(
 app.middleware("http")(token_validation_middleware)
 
 
+@app.on_event("startup")
+async def startup_event():
+    """Initialize database tables on server startup"""
+    await chat.initialize_chat_table()
+
+
 @app.get("/")
 async def home():
     """Health check endpoint"""
     return {"message": "Visitor, you must not be here! Be carefull! You may get tracked as well as 🈂ucked! You have been warned!"}
 
 
-@app.post("/chat", response_model=ChatResponse)
+@app.post(("/v3" if settings.dev else "") + "/chat", response_model=ChatResponse)
 async def chat_endpoint(request: ChatRequest):
     print(f"📨 Received chat request: 📍{request.message}📍")
     try:
@@ -42,13 +49,14 @@ async def chat_endpoint(request: ChatRequest):
         history = await chat.get_message_history(session_id, request.browser_id)
 
         # Sanitize messages from database to comply with Gemini's conversation rules
-        messages = sanitize_messages_for_gemini(list(history.messages)) if history.messages else []
+        existing_messages = await history.aget_messages()
+        messages = sanitize_messages_for_gemini(list(existing_messages)) if existing_messages else []
 
         user_message = build_message_with_images(request.message, request.image_urls)
         messages.append(user_message)
 
         # Save user message to history before processing
-        await history.aadd_message(user_message)
+        await history.aadd_messages([user_message])
 
         graph = await create_graph()
         result = await process_graph_iterations(
@@ -78,18 +86,17 @@ async def chat_endpoint(request: ChatRequest):
         if product_ids:
             product_ids_int = [int(pid) for pid in product_ids]
             products = await vector_store.search_by_id(product_ids_int)
-            
+
             def safe_validate(p):
                 try:
-                    return Product.model_validate(p.payload).to_frontend_dict()
+                    return Product.from_search_result(p).to_frontend_dict()
                 except Exception as e:
                     print(f"Failed to parse product: {e}")
                     return None
-            
+
             products_list = [p for p in (safe_validate(product) for product in products) if p is not None]
             payload = {"products": products_list}
         
-        ai_message = await translate_if_needed(ai_message)
         ai_message = await translate_if_needed(ai_message)
         
         return ChatResponse(

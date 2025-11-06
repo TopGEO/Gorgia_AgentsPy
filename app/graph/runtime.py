@@ -17,7 +17,7 @@ async def process_graph_iterations(graph, initial_state, history, max_iterations
         # Add new messages to history
         for msg in new_messages[old_count:]:
             if msg.type == "human":
-                history.add_message(msg)
+                await history.aadd_messages([msg])
             elif msg.type == "ai":
                 # Check if this is the final response (no tool_calls) or has tool calls
                 if hasattr(msg, 'tool_calls') and msg.tool_calls:
@@ -31,19 +31,19 @@ async def process_graph_iterations(graph, initial_state, history, max_iterations
                             has_respond = True
                         elif tool_name == "transfer_to_operator":
                             has_transfer = True
-                    
+
                     if has_transfer or (not has_respond):
-                        history.add_message(msg)
+                        await history.aadd_messages([msg])
                 else:
                     # Final AI response without tool calls - this is the user-facing message
                     # Don't save empty AI messages (e.g., from transfer_to_operator final response)
                     if msg.content and msg.content.strip():
-                        history.add_message(msg)
+                        await history.aadd_messages([msg])
             elif msg.type == "tool":
                 # Don't add respond_to_user tool results to history
                 # But DO add transfer_to_operator tool results
                 if hasattr(msg, 'name') and msg.name != "respond_to_user":
-                    history.add_message(msg)
+                    await history.aadd_messages([msg])
 
         current_state = result
 

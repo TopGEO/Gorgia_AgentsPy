@@ -1,0 +1,29 @@
+Company: LLC “Gorgia”
+ID Number: 245621288
+Address: Batumi, Sokhumi Street 10, 0119
+
+Emails:
+- General: info@gorgia.ge
+- Online Store: web@gorgia.ge
+
+Phone: 0322960960
+
+Branches:
+Didube: Tsereteli Ave. 140 (09:00 – 21:00)
+Saburtalo: Kavtaradze St. 1 (10:00 – 22:00)
+Vake: I. Chavchavadze Ave. 37 (10:00 – 22:00)
+Lilo: Kakheti Highway 273a, Tbilisi (09:00 – 19:00)
+Rustavi: Zh. Shartava 2, Rustavi Mall 1st floor (09:30 – 22:00)
+Batumi: Shavshetis 27 (09:00 – 20:00)
+Kutaisi: Chavchavadze 8/4 (09:00 – 19:00)
+Telavi: Alazani 77 (09:00 – 20:00)
+Zugdidi: Janashia 1 (“Kombinati”) (09:00 – 19:00)
+Marneuli: 26 May St. 8 (09:00 – 19:00)
+Tbilisi Warehouse: Tskalsadenis 7
+Tbilisi Warehouse (Avchala): D. Sarajishvili 12
+Gori: Tskhinvali Highway 2 (09:00 – 19:00)
+Sachkhere: Tamar Mepe 2g (09:00 – 19:00)
+
+Work Schedule:
+Call Center: Open daily: 09:00 – 21:00
+Online Store: Orders placed after 18:00 are processed the next day. Orders placed on Sunday are processed on Monday.

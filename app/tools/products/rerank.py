@@ -12,7 +12,7 @@ class RerankOutput(BaseModel):
     selected_ids: List[str] = Field(description="List of IDs that best match the query.")
 
 
-def build_products_text_and_id_map(rag_results, is_lexical: bool):
+async def build_products_text_and_id_map(rag_results, is_lexical: bool):
     products_texts = ""
     id_to_item = {}
     for item in rag_results:
@@ -37,7 +37,7 @@ def build_products_text_and_id_map(rag_results, is_lexical: bool):
 
 
 async def rerank_products(rag_results, query, is_lexical: bool):
-    products_texts, id_to_item = build_products_text_and_id_map(rag_results, is_lexical)
+    products_texts, id_to_item = await build_products_text_and_id_map(rag_results, is_lexical)
 
     prompt = (
         "Query: '{query}'\n\n"

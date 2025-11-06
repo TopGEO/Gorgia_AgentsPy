@@ -1,0 +1,52 @@
+Cookie Policy
+LLC “Gorgia”
+
+---
+### What are Cookies and Why We Use Them
+Cookies are small text files that a website stores on your computer or mobile device during your visit.  
+They help us manage and improve the performance of the website.  
+Through cookies, we observe user behavior to personalize your experience and provide access to useful features.
+
+---
+### Types of Cookies We Use
+
+**First-party cookies**  
+Used directly by gorgia.ge.  
+They are necessary to provide services requested by the user.
+
+**Third-party cookies**  
+Facilitate website functionality or are used for statistical purposes.  
+We use Google Analytics, an easy-to-use tool that helps website owners collect statistical data about visitors.  
+When Google Analytics is used, certain cookies are stored on your computer.  
+The Google Analytics user identifier helps track statistics and is stored for 2 years.  
+You can delete it anytime through your browser’s cookie settings.
+
+**Verification Marker Cookie**  
+Used to block unauthorized content submission (Cross-Site Request Forgery protection).  
+This cookie is essential for safe website operation and does not collect user information.  
+It is stored as a session cookie and deleted automatically when you close your browser.
+
+---
+### Cookie Categories
+
+**Essential Cookies**  
+These cookies make the website functional.  
+They enable basic features such as navigation and access to secure areas.  
+Without them, the website cannot function properly.
+
+**Analytical Cookies**  
+Collect information about how visitors use the website, such as which pages are visited most.  
+LLC “Gorgia” uses these cookies to improve website performance.  
+Some analytical cookies are third-party (for example, Google) and are used to collect user statistics.
+
+**Functional Cookies**  
+Remember user preferences, such as cookie consent, to avoid resetting them on each visit.
+
+**Third-Party Cookies**  
+Simplify website use or collect statistical data about users.  
+They may allow login through services like Google or Facebook.
+
+---
+### How to Delete Cookies
+You can delete cookies directly from your browser’s settings.  
+However, deleting cookies may limit access to certain website features and negatively affect your browsing experience.

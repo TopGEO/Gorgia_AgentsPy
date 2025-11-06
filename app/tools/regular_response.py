@@ -10,7 +10,7 @@ class RespondToUserInput(BaseModel):
     )
 
 @tool(args_schema=RespondToUserInput)
-def respond_to_user(message: str, product_ids_to_show: Optional[list[str]] = None) -> str:
+async def respond_to_user(message: str, product_ids_to_show: Optional[list[str]] = None) -> str:
     """
     **FINAL TOOL** - Call this to send your response to the user.
 

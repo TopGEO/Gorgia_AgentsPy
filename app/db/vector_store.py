@@ -28,11 +28,10 @@ class VectorStore:
         self.collection_name = settings.qdrant_collection
         self._collection_cache = {}  # Cache collection configurations
 
-    def _has_named_vectors(self, collection: str) -> bool:
-        """Check if collection has named vectors (dense/bm25) or unnamed vectors."""
+    async def _has_named_vectors(self, collection: str) -> bool:
         if collection not in self._collection_cache:
             try:
-                info = self.client.get_collection(collection)
+                info = await self.async_client.get_collection(collection)
                 has_named = isinstance(info.config.params.vectors, dict)
                 self._collection_cache[collection] = has_named
             except Exception:
@@ -57,7 +56,7 @@ class VectorStore:
         query_vector = await self.embeddings.embed_query(query)
 
         collection = collection or self.collection_name
-        if collection and self._has_named_vectors(collection):
+        if collection and await self._has_named_vectors(collection):
             vector_param = ("dense", query_vector)
         else:
             vector_param = query_vector

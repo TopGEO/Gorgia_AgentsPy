@@ -29,7 +29,7 @@ class SearchFilters(BaseModel):
             range_params = self.price_range.to_qdrant_range()
             if range_params:
                 conditions.append({
-                    "key": "metadata.product.price",
+                    "key": "metadata.price",
                     "range": range_params
                 })
         
@@ -40,7 +40,7 @@ class SearchFilters(BaseModel):
 
 class SearchProductsInput(BaseModel):
     query: str = Field(
-        description="A clear, specific search query describing the items to find. Only English query is accepted."
+        description="A clear, specific search query describing the items to find. Any language query is accepted, but for better results, use user language query."
     )
     filters: Optional[SearchFilters] = Field(
         None,
@@ -69,7 +69,7 @@ async def search_products(query: str, filters: Optional[SearchFilters] = None, n
         cleaned = []
         for i in results:
             try:
-                product = Product.model_validate(i.payload)
+                product = Product.from_search_result(i)
                 cleaned.append(product.to_search_result_dict(need_location=need_location))
             except Exception as e:
                 print(f"Failed to parse product {i.payload.get('id','unknown')}: {e}")
