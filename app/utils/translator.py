@@ -37,7 +37,7 @@ async def translate(msg: str, arg: tuple) -> str:
         f"This message contains text written in multiple languages: {others_str}. "
         f"Your task is to carefully identify ANY text, words, or even individual characters that are NOT in {target_lang}, "
         f"and translate them into proper {target_lang}. "
-        f"Pay special attention to mixed scripts, Cyrillic characters, and any non-{target_lang} content embedded within {target_lang} text. "
+        f"Pay special attention to mixed scripts, Cyrillic characters, and any non-{target_lang} content embedded within {target_lang} text."
         f"Preserve the original structure and formatting while ensuring ALL content is in {target_lang}."
         if others_str
         else f"Translate the following text into {target_lang}. Ensure all content is properly translated and maintains the original structure."
