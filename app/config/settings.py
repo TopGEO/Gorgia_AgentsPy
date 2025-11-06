@@ -12,8 +12,8 @@ class Settings(BaseSettings):
     database_url: str
 
     embedding_model: str = "gemini-embedding-001"
-    gemini_model: str = "gemini-2.5-flash"
-    temperature: float = 0.1
+    gemini_model: str = "gemini-2.5-pro"
+    temperature: float = 0.3
 
     vector_dimension: int = 3072
     qdrant_collection: str = "gorgia_products_hybrid_1"

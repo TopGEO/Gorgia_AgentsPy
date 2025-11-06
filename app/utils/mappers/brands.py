@@ -42,7 +42,7 @@ async def fetch_subcategories(client: httpx.AsyncClient) -> list[ChildCategory]:
     ]
 
 
-def summarize(categories: list[ChildCategory]) -> list[dict[str, Any]]:
+async def summarize(categories: list[ChildCategory]) -> list[dict[str, Any]]:
     grouped: dict[str, list[ChildCategory]] = {}
     for c in categories:
         grouped.setdefault(c.parent, []).append(c)
@@ -66,7 +66,7 @@ async def main():
 
     async with httpx.AsyncClient(timeout=timeout, limits=limits) as client:
         subs = await fetch_subcategories(client)
-        summaries = summarize(subs)
+        summaries = await summarize(subs)
 
     with open("brand_summary.json", "w", encoding="utf-8") as f:
         json.dump(summaries, f, indent=2, ensure_ascii=False)

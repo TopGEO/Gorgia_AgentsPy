@@ -163,8 +163,7 @@ async def extract_final_response(state: AgentState) -> AgentState:
     return {"messages": [AIMessage(content="რით შემიძლია დაგეხმაროთ? ☺️")]}
 
 
-def should_continue(state: AgentState) -> str:
-    """Route to tools or extract response after agent node"""
+async def should_continue(state: AgentState) -> str:
     messages = state["messages"]
     last_message = messages[-1]
 
@@ -174,7 +173,7 @@ def should_continue(state: AgentState) -> str:
             tool_name = getattr(second_last, 'name', None)
             if tool_name == "transfer_to_operator":
                 return "extract_response"
-    
+
     if hasattr(last_message, "tool_calls") and last_message.tool_calls:
         for tool_call in last_message.tool_calls:
             tool_name = (

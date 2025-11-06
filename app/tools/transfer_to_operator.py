@@ -5,7 +5,7 @@ class TransferToOperatorInput(BaseModel):
     reason: str = Field(description="The reason why the conversation is being transferred to a human operator")
 
 @tool(args_schema=TransferToOperatorInput)
-def transfer_to_operator(reason: str) -> str:
+async def transfer_to_operator(reason: str) -> str:
     """
     Transfer the conversation to a human operator. This STOPS the AI loop immediately.
     
