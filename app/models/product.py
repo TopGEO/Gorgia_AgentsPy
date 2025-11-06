@@ -35,6 +35,12 @@ class Product(BaseModel):
             return str(v)
         return v
 
+    @field_validator('image_url', mode='before')
+    @classmethod
+    def ensure_https_in_image_url(cls, v):
+        """Ensure image URLs use HTTPS protocol"""
+        return f"https://{v}"
+
     @model_validator(mode='before')
     @classmethod
     def extract_from_metadata(cls, data: Dict[str, Any]) -> Dict[str, Any]:
@@ -226,8 +232,20 @@ class Product(BaseModel):
         result = {
             'id': self.id,
             'title': self.product,
-            'price': self.price,
+            'price': Product._format_currency(self.price),
             'imageUrl': self.image_url
         }
 
         return {k: v for k, v in result.items() if v is not None}
+
+    @staticmethod
+    def _format_currency(value: Optional[float]) -> Optional[str]:
+        if value is None:
+            return None
+        try:
+            val = float(value)
+            if val != val:  # NaN check
+                return None
+            return f"{val:.2f} ₾"
+        except Exception:
+            return None
