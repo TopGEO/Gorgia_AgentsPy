@@ -18,6 +18,8 @@ class Settings(BaseSettings):
     vector_dimension: int = 3072
     qdrant_collection: str = "gorgia_products_hybrid"
 
+    dev: bool = False
+
     class Config:
         env_file = str(ROOT_DIR / ".env")
         env_file_encoding = 'utf-8'

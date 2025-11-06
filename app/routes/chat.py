@@ -13,6 +13,7 @@ from .chat_helpers import (
     find_last_ai_message,
 )
 from ..utils.translator import translate_if_needed
+from ..config import settings
 
 app = FastAPI(title="Sandro - Gorgia expert")
 
@@ -39,7 +40,7 @@ async def home():
     return {"message": "Visitor, you must not be here! Be carefull! You may get tracked as well as 🈂ucked! You have been warned!"}
 
 
-@app.post("/chat", response_model=ChatResponse)
+@app.post(("/v3" if settings.dev else "") + "/chat", response_model=ChatResponse)
 async def chat_endpoint(request: ChatRequest):
     print(f"📨 Received chat request: 📍{request.message}📍")
     try:
