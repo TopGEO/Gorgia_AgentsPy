@@ -14,6 +14,7 @@ from .chat_helpers import (
 )
 from ..utils.translator import translate_if_needed
 from ..config import settings
+from langchain_core.messages import SystemMessage
 
 app = FastAPI(title="Sandro - Gorgia expert")
 
@@ -57,6 +58,14 @@ async def chat_endpoint(request: ChatRequest):
 
         # Save user message to history before processing
         await history.aadd_messages([user_message])
+
+        if request.message.strip().lower() == "salam":
+            print("💡 User just greeted with 'salam'. Asking which language they want to speak in.")
+            language_prompt = SystemMessage(
+                content="The user just greeted with 'salam'. Ask the user which language they want to speak in."
+            )
+            messages.append(language_prompt)
+            await history.aadd_messages([language_prompt])
 
         graph = await create_graph()
         result = await process_graph_iterations(
